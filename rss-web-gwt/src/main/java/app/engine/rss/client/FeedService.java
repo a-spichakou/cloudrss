@@ -10,6 +10,8 @@ public interface FeedService extends RemoteService {
 
 	public Long addFeed(String url) throws IllegalArgumentException;
 	
-	public String getFeed(Long id) throws IllegalArgumentException;
+	public FeedEntity getFeed(Long id) throws IllegalArgumentException;
+	
+	public FeedEntity[] getFeeds() throws IllegalArgumentException;
 
 }

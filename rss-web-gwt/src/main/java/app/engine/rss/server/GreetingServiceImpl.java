@@ -1,11 +1,8 @@
 package app.engine.rss.server;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import app.engine.rss.client.GreetingService;
-import app.engine.rss.dao.FeedDAO;
-import app.engine.rss.dao.FeedDAOImpl;
 import app.engine.rss.shared.FieldVerifier;
 
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
@@ -18,17 +15,6 @@ import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 public class GreetingServiceImpl extends RemoteServiceServlet implements
     GreetingService {
 	
-	
-	private FeedDAOImpl feedDAO;
-
-  public FeedDAOImpl getFeedDAO() {
-		return feedDAO;
-	}
-
-  @Autowired
-	public void setFeedDAO(FeedDAOImpl feedDAO) {
-		this.feedDAO = feedDAO;
-	}
 
 public String greetServer(String input) throws IllegalArgumentException {
 	  

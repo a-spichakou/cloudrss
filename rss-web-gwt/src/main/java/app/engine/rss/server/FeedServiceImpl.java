@@ -36,8 +36,13 @@ public class FeedServiceImpl extends SpringGwtServlet implements
 		this.feedDAO = feedDAO;
 	}
 
-	public String getFeed(Long id) throws IllegalArgumentException {
-		return "String";
+	public FeedEntity getFeed(Long id) throws IllegalArgumentException {
+		assert(id!=null);
+		return feedDAO.getFeed(id);
+	}
+
+	public FeedEntity[] getFeeds() throws IllegalArgumentException {
+		return feedDAO.getFeeds().toArray(new FeedEntity[]{});
 	}
 
 }
