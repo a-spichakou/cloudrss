@@ -128,10 +128,12 @@
 					<!-- Plugin configuration. There are many available options, see gwt-maven-plugin 
 						documentation at codehaus.org -->
 					<configuration>
-						<runTarget>gwt.html</runTarget>
+						<generateDirectory>${project.build.directory}/generated-sources</generateDirectory>
+						<!-- logLevel>TRACE</logLevel-->
+						<runTarget>Feeds.html</runTarget>
 						<hostedWebapp>${webappDirectory}</hostedWebapp>
-						<out>${webappDirectory}</out>	
-						<!-- webMode>true</webMode-->					
+						<out>${webappDirectory}</out>
+						<!-- webMode>true</webMode -->
 						<i18nMessagesBundle>app.engine.rss.client.Messages</i18nMessagesBundle>
 						<mode>htmlunit</mode>
 						<configuration>

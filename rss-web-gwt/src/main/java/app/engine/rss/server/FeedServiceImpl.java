@@ -1,5 +1,7 @@
 package app.engine.rss.server;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -7,6 +9,7 @@ import app.engine.rss.client.FeedService;
 import app.engine.rss.dao.FeedDAO;
 import app.engine.rss.dao.FeedDAOImpl;
 import app.engine.rss.entity.FeedEntity;
+import app.engine.rss.shared.dto.FeedDTO;
 
 @Service
 public class FeedServiceImpl extends SpringGwtServlet implements
@@ -36,13 +39,17 @@ public class FeedServiceImpl extends SpringGwtServlet implements
 		this.feedDAO = feedDAO;
 	}
 
-	public FeedEntity getFeed(Long id) throws IllegalArgumentException {
+	public FeedDTO getFeed(Long id) throws IllegalArgumentException {
 		assert(id!=null);
-		return feedDAO.getFeed(id);
+		final FeedEntity feed = feedDAO.getFeed(id);
+		final FeedDTO dto = EntityToDTOMapper.getDTO(feed);
+		return dto;
 	}
 
-	public FeedEntity[] getFeeds() throws IllegalArgumentException {
-		return feedDAO.getFeeds().toArray(new FeedEntity[]{});
+	public FeedDTO[] getFeeds() throws IllegalArgumentException {
+		final List<FeedEntity> feeds = feedDAO.getFeeds();
+		final List<FeedDTO> dto = EntityToDTOMapper.getDTO(feeds);
+		return dto.toArray(new FeedDTO[]{});
 	}
 
 }

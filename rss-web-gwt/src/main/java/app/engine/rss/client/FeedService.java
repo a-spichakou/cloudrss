@@ -1,6 +1,7 @@
 package app.engine.rss.client;
 
-import app.engine.rss.entity.FeedEntity;
+
+import app.engine.rss.shared.dto.FeedDTO;
 
 import com.google.gwt.user.client.rpc.RemoteService;
 import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;
@@ -10,8 +11,8 @@ public interface FeedService extends RemoteService {
 
 	public Long addFeed(String url) throws IllegalArgumentException;
 	
-	public FeedEntity getFeed(Long id) throws IllegalArgumentException;
+	public FeedDTO getFeed(Long id) throws IllegalArgumentException;
 	
-	public FeedEntity[] getFeeds() throws IllegalArgumentException;
+	public FeedDTO[] getFeeds() throws IllegalArgumentException;
 
 }
