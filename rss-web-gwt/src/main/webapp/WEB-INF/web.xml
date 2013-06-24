@@ -32,7 +32,7 @@
 
 	<!-- Default page to serve -->
 	<welcome-file-list>
-		<welcome-file>Feeds.html</welcome-file>
+		<welcome-file>gwt.html</welcome-file>
 	</welcome-file-list>
 
 	<filter>

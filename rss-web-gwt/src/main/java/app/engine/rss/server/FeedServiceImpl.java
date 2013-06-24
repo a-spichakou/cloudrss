@@ -26,8 +26,14 @@ public class FeedServiceImpl extends SpringGwtServlet implements
 	public Long addFeed(String url) throws IllegalArgumentException {
 		final FeedEntity entity = new FeedEntity();
 		entity.setLink(url);
-		feedDAO.addNewFeed(entity);
+		feedDAO.addFeed(entity);
 		return entity.getId();
+	}
+	
+	public void removeFeed(Long id)
+	{
+		assert(id!=null);
+		feedDAO.removeFeed(id);
 	}
 
 	public FeedDAO getFeedDAO() {

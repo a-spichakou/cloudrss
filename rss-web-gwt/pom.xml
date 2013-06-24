@@ -130,7 +130,7 @@
 					<configuration>
 						<generateDirectory>${project.build.directory}/generated-sources</generateDirectory>
 						<!-- logLevel>TRACE</logLevel-->
-						<runTarget>Feeds.html</runTarget>
+						<runTarget>feeds.html</runTarget>
 						<hostedWebapp>${webappDirectory}</hostedWebapp>
 						<out>${webappDirectory}</out>
 						<!-- webMode>true</webMode -->

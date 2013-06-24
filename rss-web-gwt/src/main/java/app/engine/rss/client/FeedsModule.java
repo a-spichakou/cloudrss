@@ -13,7 +13,7 @@ import com.google.gwt.user.client.ui.HorizontalPanel;
 import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.TextBox;
 
-public class Feeds implements EntryPoint {
+public class FeedsModule implements EntryPoint {
 
 	private final FeedServiceAsync feedService = GWT
 			.create(FeedService.class);

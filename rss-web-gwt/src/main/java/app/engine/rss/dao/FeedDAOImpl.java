@@ -21,7 +21,7 @@ public class FeedDAOImpl implements FeedDAO {
 	 * app.engine.rss.server.FeedDAO#addNewFeed(app.engine.rss.entity.FeedEntity
 	 * )
 	 */
-	public void addNewFeed(FeedEntity feedEntity) {
+	public void addFeed(FeedEntity feedEntity) {
 		ofy().save().entity(feedEntity).now();
 	}
 
@@ -31,7 +31,7 @@ public class FeedDAOImpl implements FeedDAO {
 	 * @see app.engine.rss.server.FeedDAO#addNewFeedItems(java.lang.Long,
 	 * java.util.List)
 	 */
-	public void addNewFeedItems(Long feedId, List<ItemEntity> entities) {
+	public void addFeedItems(Long feedId, List<ItemEntity> entities) {
 		ofy().save().entities(entities).now();
 	}
 	
@@ -50,9 +50,14 @@ public class FeedDAOImpl implements FeedDAO {
 		return type.list();
 	}
 
-	public FeedEntity getFeed(Long id) {
-		assert(id!=null);
-		return ofy().load().now(FeedEntity.key(id));
+	public FeedEntity getFeed(Long feedId) {
+		assert(feedId!=null);
+		return ofy().load().now(FeedEntity.key(feedId));
+	}
+
+	public void removeFeed(Long feedId) {
+		assert(feedId!=null);
+		ofy().delete().key(FeedEntity.key(feedId)).now();
 	}
 	
 	

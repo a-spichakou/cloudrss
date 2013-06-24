@@ -10,7 +10,7 @@ public class EntityToDTOMapper {
 
 	public static FeedDTO getDTO(FeedEntity entity) {
 		if (entity == null) {
-			return null;
+			return FeedDTO.EMPTY;
 		}
 		final FeedDTO dto = new FeedDTO();
 		dto.setDescription(entity.getDescription());

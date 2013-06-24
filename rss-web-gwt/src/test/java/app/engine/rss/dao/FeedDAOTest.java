@@ -39,10 +39,10 @@ public class FeedDAOTest extends TestCase{
     public void testAddNewFeedItems()
     {
     	final FeedEntity feed = createFeed();
-    	feedDao.addNewFeed(feed);
+    	feedDao.addFeed(feed);
     	
     	final List<ItemEntity> items = createListOfItems(3);
-    	feedDao.addNewFeedItems(feed.getId(), items);
+    	feedDao.addFeedItems(feed.getId(), items);
     	
     	for(ItemEntity item:items)
     	{
@@ -62,7 +62,7 @@ public class FeedDAOTest extends TestCase{
     public void testGetFeed()
     {
     	final FeedEntity entity = createFeed();
-    	feedDao.addNewFeed(entity);
+    	feedDao.addFeed(entity);
     	
     	final FeedEntity saved = feedDao.getFeed(entity.getId());
     	
@@ -74,10 +74,10 @@ public class FeedDAOTest extends TestCase{
     }
     
     @Test
-    public void testAddNewFeed()
+    public void testAddFeed()
     {
     	final FeedEntity entity = createFeed();
-    	feedDao.addNewFeed(entity);
+    	feedDao.addFeed(entity);
     	
     	final FeedEntity saved = ofy().load().now(FeedEntity.key(entity.getId()));
     	
@@ -86,6 +86,23 @@ public class FeedDAOTest extends TestCase{
     	assertEquals(entity.getImageUrl(), saved.getImageUrl());
     	assertEquals(entity.getLink(), saved.getLink());
     	assertEquals(entity.getTitle(), saved.getTitle());
+    }
+    
+    @Test
+    public void testRemoveFeed()
+    {
+    	final FeedEntity entity = createFeed();
+    	feedDao.addFeed(entity);
+    	
+    	final FeedEntity saved = ofy().load().now(FeedEntity.key(entity.getId()));
+    	
+    	assertEquals(entity.getId(), saved.getId());
+    
+    	feedDao.removeFeed(entity.getId());
+    	
+    	final FeedEntity removed = ofy().load().now(FeedEntity.key(entity.getId()));
+    	
+    	assertNull(removed);
     }
     
     private static FeedEntity createFeed()

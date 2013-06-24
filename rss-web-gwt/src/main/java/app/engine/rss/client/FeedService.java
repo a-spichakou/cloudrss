@@ -11,6 +11,8 @@ public interface FeedService extends RemoteService {
 
 	public Long addFeed(String url) throws IllegalArgumentException;
 	
+	public void removeFeed(Long id) throws IllegalArgumentException;
+	
 	public FeedDTO getFeed(Long id) throws IllegalArgumentException;
 	
 	public FeedDTO[] getFeeds() throws IllegalArgumentException;

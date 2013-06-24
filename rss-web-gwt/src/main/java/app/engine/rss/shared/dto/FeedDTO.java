@@ -4,6 +4,8 @@ import java.io.Serializable;
 
 public class FeedDTO implements Serializable {
 	private static final long serialVersionUID = -7303620111119176580L;
+	
+	public static FeedDTO EMPTY = new FeedDTO();
 
 	private Long id;
 

@@ -7,12 +7,14 @@ import app.engine.rss.entity.ItemEntity;
 
 public interface FeedDAO {
 
-	public abstract void addNewFeed(FeedEntity feedEntity);
+	public void addFeed(FeedEntity feedEntity);
+	
+	public void removeFeed(Long feedId);
 
-	public abstract void addNewFeedItems(Long feedId, List<ItemEntity> entities);
+	public void addFeedItems(Long feedId, List<ItemEntity> entities);
 
-	public abstract List<FeedEntity> getFeeds();
+	public List<FeedEntity> getFeeds();
 
-	public FeedEntity getFeed(Long id);
+	public FeedEntity getFeed(Long feedId);
 
 }
