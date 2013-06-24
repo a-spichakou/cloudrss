@@ -128,8 +128,12 @@
 					<!-- Plugin configuration. There are many available options, see gwt-maven-plugin 
 						documentation at codehaus.org -->
 					<configuration>
+						<server>com.google.appengine.tools.development.gwt.AppEngineLauncher</server>
+						<appEngineVersion>${gaeVersion}</appEngineVersion>
+						<extraJvmArgs>-Dappengine.sdk.root=d:\tmp\appengine-java-sdk-1.8.0</extraJvmArgs>
+
 						<generateDirectory>${project.build.directory}/generated-sources</generateDirectory>
-						<!-- logLevel>TRACE</logLevel-->
+						<!-- logLevel>TRACE</logLevel -->
 						<runTarget>feeds.html</runTarget>
 						<hostedWebapp>${webappDirectory}</hostedWebapp>
 						<out>${webappDirectory}</out>

@@ -27,12 +27,12 @@
 
 	<servlet-mapping>
 		<servlet-name>feedServlet</servlet-name>
-		<url-pattern>/gwt/feed</url-pattern>
+		<url-pattern>/feeds/feed</url-pattern>
 	</servlet-mapping>
 
 	<!-- Default page to serve -->
 	<welcome-file-list>
-		<welcome-file>gwt.html</welcome-file>
+		<welcome-file>feeds.html</welcome-file>
 	</welcome-file-list>
 
 	<filter>
