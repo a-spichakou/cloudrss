@@ -6,8 +6,6 @@ import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
-import com.google.gwt.user.client.DOM;
-import com.google.gwt.user.client.Element;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.user.client.ui.Anchor;
 import com.google.gwt.user.client.ui.Button;
@@ -126,9 +124,8 @@ public class FeedsModule implements EntryPoint {
 	 */
 	private final class AddNewFeedHandler implements ClickHandler {
 		public void onClick(ClickEvent event) {
-			final Element elementById = DOM.getElementById(IFeedsUIConstants.NEW_FEED_URL_TXTBOX_ID);
-			final TextBox urlTextBox = TextBox.wrap(elementById);
-
+			final TextBox urlTextBox = (TextBox)UIUtils.findChildWidget(IFeedsUIConstants.NEW_FEED_INFO, IFeedsUIConstants.NEW_FEED_URL_TXTBOX_ID);
+			
 			AsyncCallback<Long> callback = new AsyncCallback<Long>() {
 
 				public void onFailure(Throwable caught) {
@@ -149,9 +146,9 @@ public class FeedsModule implements EntryPoint {
 	 * @param message
 	 */
 	private void showError(Throwable caught, String message)
-	{
-		final Label errorLabel = Label.wrap(DOM.getElementById(IFeedsUIConstants.NEW_FEED_ERROR_ID));
-		errorLabel.setText(message + caught.getLocalizedMessage());
+	{	
+		final Label errorLabel = (Label)UIUtils.findChildWidget(IFeedsUIConstants.FEED_ERROR_CONTAINER, IFeedsUIConstants.NEW_FEED_ERROR_ID);
+		errorLabel.setText(message + " " + caught.getLocalizedMessage());
 	}
 
 }

@@ -102,6 +102,11 @@
 			<artifactId>spring-tx</artifactId>
 			<version>${springVersion}</version>
 		</dependency>
+		<dependency>
+			<groupId>javax.xml.bind</groupId>
+			<artifactId>jaxb-api</artifactId>
+			<version>LATEST</version>			
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -130,7 +135,7 @@
 					<configuration>
 						<server>com.google.appengine.tools.development.gwt.AppEngineLauncher</server>
 						<appEngineVersion>${gaeVersion}</appEngineVersion>
-						<extraJvmArgs>-Dappengine.sdk.root=d:\tmp\appengine-java-sdk-1.8.0</extraJvmArgs>
+						<appEngineHome>${appEngineSdk}</appEngineHome>
 
 						<generateDirectory>${project.build.directory}/generated-sources</generateDirectory>
 						<!-- logLevel>TRACE</logLevel -->
@@ -182,7 +187,24 @@
 						</excludes>
 					</configuration>
 				</plugin>
-
+				<plugin>
+					<groupId>org.codehaus.mojo</groupId>
+					<artifactId>properties-maven-plugin</artifactId>
+					<version>LATEST</version>
+					<executions>
+						<execution>
+							<phase>initialize</phase>
+							<goals>
+								<goal>read-project-properties</goal>
+							</goals>
+							<configuration>
+								<files>
+									<file>../dev.properties</file>
+								</files>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin>
 			</plugins>
 		</pluginManagement>
 	</build>

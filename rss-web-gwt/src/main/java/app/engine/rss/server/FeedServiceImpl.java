@@ -1,5 +1,7 @@
 package app.engine.rss.server;
 
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,6 +19,7 @@ public class FeedServiceImpl extends SpringGwtServlet implements
 
 	private static final long serialVersionUID = -7745736807965134047L;
 	private FeedDAOImpl feedDAO;
+	private FeedParserImpl feedParser;
 
 	/*
 	 * (non-Javadoc)
@@ -24,7 +27,20 @@ public class FeedServiceImpl extends SpringGwtServlet implements
 	 * @see app.engine.rss.server.FeedService#addFeed(java.lang.String)
 	 */
 	public Long addFeed(String url) throws IllegalArgumentException {
-		final FeedEntity entity = new FeedEntity();
+		URL urlObj = null;
+		try {
+			urlObj = new URL(url);
+		} catch (MalformedURLException e) {
+			throw new IllegalArgumentException(e);
+		}
+		FeedEntity entity = null;
+		
+		try {
+			entity = feedParser.populateFeedEntityAtom(urlObj);
+		} catch (Exception e) {
+			throw new IllegalArgumentException(e);
+		} 
+		
 		entity.setLink(url);
 		feedDAO.addFeed(entity);
 		return entity.getId();
@@ -43,6 +59,11 @@ public class FeedServiceImpl extends SpringGwtServlet implements
 	@Autowired
 	public void setFeedDAO(FeedDAOImpl feedDAO) {
 		this.feedDAO = feedDAO;
+	}
+	
+	@Autowired
+	public void setFeedParser(FeedParserImpl feedParser) {
+		this.feedParser = feedParser;
 	}
 
 	public FeedDTO getFeed(Long id) throws IllegalArgumentException {
