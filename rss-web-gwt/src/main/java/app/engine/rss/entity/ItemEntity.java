@@ -18,6 +18,8 @@ public class ItemEntity {
 	private String description;
 	private String pubDate;
 	private String author;
+	private Boolean read;
+	private Long feedId;
 
 	public static Key<ItemEntity> key(long id) {
 		return Key.create(ItemEntity.class, id);
@@ -77,6 +79,22 @@ public class ItemEntity {
 
 	public void setAuthor(String author) {
 		this.author = author;
+	}
+
+	public Boolean getRead() {
+		return read;
+	}
+
+	public void setRead(Boolean read) {
+		this.read = read;
+	}
+
+	public Long getFeedId() {
+		return feedId;
+	}
+
+	public void setFeedId(Long feedId) {
+		this.feedId = feedId;
 	}
 
 }

@@ -1,12 +1,14 @@
 package app.engine.rss.server;
 
 import java.net.URL;
+import java.util.List;
 
 import junit.framework.TestCase;
 
 import org.junit.Test;
 
 import app.engine.rss.entity.FeedEntity;
+import app.engine.rss.entity.ItemEntity;
 
 public class FeedParserImplTest extends TestCase {
 
@@ -29,4 +31,24 @@ public class FeedParserImplTest extends TestCase {
 		assertEquals("Apache Software Foundation Project Releases", populateFeedEntityAtom.getTitle());
 	}
 
+	
+	public void testPopulateItemEntitiesAtom()
+	{
+		URL url = null;
+		final String spec = "http://projects.apache.org/feeds/atom.xml";
+		List<ItemEntity> itemEntities = null;
+		try {			
+			url = new URL(spec);
+			itemEntities = feedParser.populateItemEntitiesAtom(url);
+		} catch (Exception e) {
+			fail(e.getMessage());
+		}
+		assertNotNull(itemEntities);
+		assertTrue(itemEntities.size()>0);
+		final ItemEntity itemEntity = itemEntities.get(0);
+		assertNotNull(itemEntity.getDescription());
+		assertNotNull(itemEntity.getGuid());
+		assertNotNull(itemEntity.getLink());
+		assertNotNull(itemEntity.getTitle());
+	}
 }

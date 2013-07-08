@@ -55,6 +55,7 @@ public class FeedDAOTest extends TestCase{
         	assertEquals(item.getTitle(), saved.getTitle());
         	assertEquals(item.getGuid(), saved.getGuid());
         	assertEquals(item.getPubDate(), saved.getPubDate());
+        	assertTrue(saved.getRead());
     	}
     }
     
@@ -124,6 +125,7 @@ public class FeedDAOTest extends TestCase{
     	entity.setPubDate(RandomStringUtils.random(10));
     	entity.setLink(RandomStringUtils.random(10));
     	entity.setTitle(RandomStringUtils.random(10));
+    	entity.setRead(Boolean.TRUE);
     	return entity;
     }
     
