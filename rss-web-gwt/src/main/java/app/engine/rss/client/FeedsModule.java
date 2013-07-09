@@ -92,10 +92,10 @@ public class FeedsModule implements EntryPoint {
 		urlFeed.setWidth("100%");
 		urlFeed.getElement().setAttribute("id", IFeedsUIConstants.NEW_FEED_URL_TXTBOX_ID);
 
-		final RootPanel newFeedInfoPanel = RootPanel.get(IFeedsUIConstants.NEW_FEED_INFO);
+		final RootPanel newFeedInfoPanel = RootPanel.get(IFeedsUIConstants.NEW_FEED_INFO_CONTAINER);
 		newFeedInfoPanel.add(urlFeed);
 
-		final RootPanel newFeedActionsPanel = RootPanel.get(IFeedsUIConstants.NEW_FEED_ACTIONS);
+		final RootPanel newFeedActionsPanel = RootPanel.get(IFeedsUIConstants.NEW_FEED_ACTIONS_CONTAINER);
 		newFeedActionsPanel.add(addFeedButton);
 		
 		final Label errorLabel = new Label();
@@ -126,7 +126,7 @@ public class FeedsModule implements EntryPoint {
 	 */
 	private final class AddNewFeedHandler implements ClickHandler {
 		public void onClick(ClickEvent event) {
-			final TextBox urlTextBox = (TextBox)UIUtils.findChildWidget(IFeedsUIConstants.NEW_FEED_INFO, IFeedsUIConstants.NEW_FEED_URL_TXTBOX_ID);
+			final TextBox urlTextBox = (TextBox)UIUtils.findChildWidget(IFeedsUIConstants.NEW_FEED_INFO_CONTAINER, IFeedsUIConstants.NEW_FEED_URL_TXTBOX_ID);
 			
 			AsyncCallback<Long> callback = new AsyncCallback<Long>() {
 

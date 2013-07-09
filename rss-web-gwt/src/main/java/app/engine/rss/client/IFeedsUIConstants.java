@@ -5,9 +5,9 @@ package app.engine.rss.client;
  *
  */
 public interface IFeedsUIConstants {
-	public static final String NEW_FEED_INFO = "newFeedInfoContainer";
+	public static final String NEW_FEED_INFO_CONTAINER = "newFeedInfoContainer";
 
-	public static final String NEW_FEED_ACTIONS = "newFeedActionsContainer";
+	public static final String NEW_FEED_ACTIONS_CONTAINER = "newFeedActionsContainer";
 	
 	public static final String FEED_INFO_CONTAINER = "feedInfoContainer";
 	
