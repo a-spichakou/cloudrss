@@ -2,6 +2,8 @@ package app.engine.rss.dao;
 
 import static app.engine.rss.dao.OfyService.ofy;
 
+import java.util.List;
+
 import org.apache.commons.lang.RandomStringUtils;
 import org.junit.After;
 import org.junit.Before;
@@ -107,6 +109,27 @@ public class ItemDAOTest extends TestCase{
     	final boolean addItemAndSkipExisting1 = itemDao.addItemAndSkipExisting(entity1);
     	assertTrue(addItemAndSkipExisting1);    	
     }
+    
+    @Test
+    public void testGetItems()
+    {
+    	final ItemEntity entity = createItem();
+    	entity.setFeedId(1l);    	
+    	itemDao.addItem(entity);
+    	
+    	final ItemEntity entity1 = createItem();
+    	entity1.setFeedId(1l);
+    	itemDao.addItem(entity1);
+    	
+    	final ItemEntity entity2 = createItem();
+    	entity2.setFeedId(2l);
+    	itemDao.addItem(entity2);    	
+    	
+    	final List<ItemEntity> items = itemDao.getItems(1l);
+    	assertEquals(2, items.size());
+    	
+    }
+    
     
     private static ItemEntity createItem()
     {

@@ -11,6 +11,8 @@ public class SpringGwtServlet extends RemoteServiceServlet {
 
 	private static final long serialVersionUID = 4956553056300294292L;
 	
+	public static boolean datastoreInitialized;
+	
 	@Override
 	public void init(ServletConfig config) throws ServletException {
 		super.init(config);

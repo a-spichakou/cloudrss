@@ -8,6 +8,7 @@ import java.util.logging.Logger;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
+import app.engine.rss.client.ItemService;
 import app.engine.rss.dao.FeedDAO;
 import app.engine.rss.dao.ItemDAO;
 import app.engine.rss.entity.FeedEntity;
@@ -15,7 +16,7 @@ import app.engine.rss.entity.ItemEntity;
 import app.engine.rss.shared.dto.ItemDTO;
 import app.engine.rss.shared.exception.ServiceException;
 
-public class ItemServiceImpl extends SpringGwtServlet {
+public class ItemServiceImpl extends SpringGwtServlet implements ItemService {
 	private static final long serialVersionUID = 5239074901131504225L;
 	private static final Logger log = Logger.getLogger(ItemServiceImpl.class.getName());
 
@@ -23,6 +24,9 @@ public class ItemServiceImpl extends SpringGwtServlet {
 	private FeedDAO feedDAO;
 	private FeedParserImpl feedParser;
 	
+	/* (non-Javadoc)
+	 * @see app.engine.rss.server.ItemService#loadItems(java.lang.Long)
+	 */
 	public ItemDTO[] loadItems(Long feedId) throws ServiceException
 	{
 		final List<ItemEntity> items = itemDAO.getItems(feedId);
@@ -37,6 +41,9 @@ public class ItemServiceImpl extends SpringGwtServlet {
 		return dto.toArray(new ItemDTO[]{});
 	}
 	
+	/* (non-Javadoc)
+	 * @see app.engine.rss.server.ItemService#downloadNewItems(java.lang.Long)
+	 */
 	public void downloadNewItems(Long feedId) throws ServiceException
 	{
 		final FeedEntity feed = feedDAO.getFeed(feedId);
@@ -66,13 +73,16 @@ public class ItemServiceImpl extends SpringGwtServlet {
 		}
 	}
 	
+	/* (non-Javadoc)
+	 * @see app.engine.rss.server.ItemService#markAsRead(java.lang.Long)
+	 */
 	public void markAsRead(Long itemId)
 	{
 		final ItemEntity item = itemDAO.getItem(itemId);
 		item.setRead(true);
 		itemDAO.saveItem(item);
 	}
-	
+
 	public ItemDAO getItemDAO() {
 		return itemDAO;
 	}

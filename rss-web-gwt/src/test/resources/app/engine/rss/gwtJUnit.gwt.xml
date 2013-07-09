@@ -7,5 +7,7 @@
   <servlet path="/gwt/greet" class="app.engine.rss.server.GreetingServiceImpl" />
   
   <servlet path="/gwt/feed" class="app.engine.rss.server.FeedServiceImplTestProxy" />
+  
+  <servlet path="/gwt/item" class="app.engine.rss.server.ItemServiceImplTestProxy" />
 
 </module>

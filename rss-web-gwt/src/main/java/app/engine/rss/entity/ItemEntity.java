@@ -21,6 +21,7 @@ public class ItemEntity {
 	private String pubDate;
 	private String author;
 	private Boolean read;
+	@Index
 	private Long feedId;
 
 	public static Key<ItemEntity> key(long id) {

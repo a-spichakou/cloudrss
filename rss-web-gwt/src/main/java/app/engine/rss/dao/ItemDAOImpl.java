@@ -45,7 +45,7 @@ public class ItemDAOImpl implements ItemDAO{
 
 	public List<ItemEntity> getItems(Long feedId) {
 		assert(feedId!=null);
-		final List<ItemEntity> list = ofy().load().type(ItemEntity.class).filter("feedId !=", feedId).list();
+		final List<ItemEntity> list = ofy().load().type(ItemEntity.class).filter("feedId", feedId).list();
 		return list;
 	}
 
