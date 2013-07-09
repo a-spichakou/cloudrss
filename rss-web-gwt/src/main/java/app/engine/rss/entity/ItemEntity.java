@@ -4,6 +4,7 @@ import com.googlecode.objectify.Key;
 import com.googlecode.objectify.annotation.Cache;
 import com.googlecode.objectify.annotation.Entity;
 import com.googlecode.objectify.annotation.Id;
+import com.googlecode.objectify.annotation.Index;
 
 @Entity
 @Cache
@@ -13,6 +14,7 @@ public class ItemEntity {
 	private Long id;
 
 	private String title;
+	@Index
 	private String guid;
 	private String link;
 	private String description;

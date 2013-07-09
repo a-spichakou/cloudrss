@@ -2,7 +2,7 @@ package app.engine.rss.shared.dto;
 
 import java.io.Serializable;
 
-public class FeedDTO implements Serializable {
+public class FeedDTO extends HasDummyEmpty<FeedDTO> implements Serializable  {
 	private static final long serialVersionUID = -7303620111119176580L;
 	
 	public static FeedDTO EMPTY = new FeedDTO();
@@ -55,6 +55,10 @@ public class FeedDTO implements Serializable {
 
 	public void setImageUrl(String imageUrl) {
 		this.imageUrl = imageUrl;
+	}
+
+	public FeedDTO getEmpty() {
+		return EMPTY;
 	}
 
 }

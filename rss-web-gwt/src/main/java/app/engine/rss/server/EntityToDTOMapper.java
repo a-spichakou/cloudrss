@@ -1,35 +1,35 @@
 package app.engine.rss.server;
 
+import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
 import java.util.List;
 
-import app.engine.rss.entity.FeedEntity;
-import app.engine.rss.shared.dto.FeedDTO;
+import org.apache.commons.beanutils.BeanUtils;
 
-public class EntityToDTOMapper {
+import app.engine.rss.shared.dto.HasDummyEmpty;
 
-	public static FeedDTO getDTO(FeedEntity entity) {
+public class EntityToDTOMapper<T, T1 extends HasDummyEmpty<T1>> {	
+	
+	public T1 getDTO(Class<? extends T1> clazz, T entity) throws InstantiationException, IllegalAccessException, InvocationTargetException {
+
+		final T1 dto = clazz.newInstance();
 		if (entity == null) {
-			return FeedDTO.EMPTY;
+			return dto.getEmpty();
 		}
-		final FeedDTO dto = new FeedDTO();
-		dto.setDescription(entity.getDescription());
-		dto.setId(entity.getId());
-		dto.setImageUrl(entity.getImageUrl());
-		dto.setLink(entity.getLink());
-		dto.setTitle(entity.getTitle());
+		BeanUtils.copyProperties(dto, entity);
+
 		return dto;
 	}
 
-	public static List<FeedDTO> getDTO(List<FeedEntity> entities) {
+	public List<T1> getDTO(Class<? extends T1> clazz, List<T> entities) throws InstantiationException, IllegalAccessException, InvocationTargetException {
 		if (entities == null) {
 			return null;
 		}
 
-		final ArrayList<FeedDTO> dtos = new ArrayList<FeedDTO>();
+		final ArrayList<T1> dtos = new ArrayList<T1>();
 
-		for (FeedEntity entity : entities) {
-			dtos.add(getDTO(entity));
+		for (T entity : entities) {
+			dtos.add(getDTO(clazz, entity));
 		}
 		return dtos;
 	}

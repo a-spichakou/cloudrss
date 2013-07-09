@@ -28,17 +28,17 @@ public class GwtTestFeedService extends GWTTestCase {
 
 	public void testAddFeedService() {
 		delayTestFinish(10000);
-		feedService.addFeed("http://google.com", new AddFeedCallBack1());
+		feedService.addFeed("http://projects.apache.org/feeds/atom.xml", new AddFeedCallBack1());
 	}
 
 	public void testGetFeedService() {
 		delayTestFinish(10000);
-		feedService.addFeed("http://google.com", new GetFeedCallBack1());
+		feedService.addFeed("http://projects.apache.org/feeds/atom.xml", new GetFeedCallBack1());
 	}
 
 	public void testRemoveFeedService() {
 		delayTestFinish(10000);
-		feedService.addFeed("http://google.com", new AddFeedCallback2());
+		feedService.addFeed("http://projects.apache.org/feeds/atom.xml", new AddFeedCallback2());
 
 	}
 
