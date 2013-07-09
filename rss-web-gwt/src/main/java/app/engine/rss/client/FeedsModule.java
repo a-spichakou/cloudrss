@@ -48,10 +48,11 @@ public class FeedsModule implements EntryPoint {
 
 		for (final FeedDTO feed : feeds) {
 			final HorizontalPanel panel = new HorizontalPanel();
+			panel.setSpacing(10);
 
 			final Anchor feedInfo = new Anchor();
 			feedInfo.setText(feed.getTitle());
-			feedInfo.setHref(feed.getLink());
+			feedInfo.setHref(feed.getLink());			
 			panel.add(feedInfo);
 
 			final Button removeFeedButton = new Button(messages.removeFeedButton());
@@ -88,6 +89,7 @@ public class FeedsModule implements EntryPoint {
 		addFeedButton.addClickHandler(handler);
 		
 		final TextBox urlFeed = new TextBox();
+		urlFeed.setWidth("100%");
 		urlFeed.getElement().setAttribute("id", IFeedsUIConstants.NEW_FEED_URL_TXTBOX_ID);
 
 		final RootPanel newFeedInfoPanel = RootPanel.get(IFeedsUIConstants.NEW_FEED_INFO);
@@ -148,7 +150,7 @@ public class FeedsModule implements EntryPoint {
 	private void showError(Throwable caught, String message)
 	{	
 		final Label errorLabel = (Label)UIUtils.findChildWidget(IFeedsUIConstants.FEED_ERROR_CONTAINER, IFeedsUIConstants.NEW_FEED_ERROR_ID);
-		errorLabel.setText(message + " " + caught.getLocalizedMessage());
+		errorLabel.setText(message + ": " + caught.getLocalizedMessage());
 	}
 
 }
