@@ -33,7 +33,7 @@ public class ItemDAOImpl implements ItemDAO{
 
 	public boolean addItemAndSkipExisting(ItemEntity itemEntity) {
 		assert(itemEntity!=null);
-		final List<ItemEntity> list = ofy().load().type(ItemEntity.class).filter("guid", itemEntity.getGuid()).list();
+		final List<ItemEntity> list = ofy().load().type(ItemEntity.class).filter("guid", itemEntity.getGuid()).filter("feedId", itemEntity.getFeedId()).list();
 		
 		if(list.isEmpty())
 		{

@@ -37,9 +37,12 @@
 
 	<servlet-mapping>
 		<servlet-name>itemServlet</servlet-name>
-		<url-pattern>/feeds/item</url-pattern>
+		<url-pattern>/items/item</url-pattern>
 	</servlet-mapping>
-	
+	<servlet-mapping>
+		<servlet-name>feedServlet</servlet-name>
+		<url-pattern>/items/feed</url-pattern>
+	</servlet-mapping>
 	
 	<!-- Default page to serve -->
 	<welcome-file-list>

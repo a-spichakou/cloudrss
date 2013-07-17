@@ -4,15 +4,15 @@ import app.engine.rss.shared.dto.FeedDTO;
 
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
-import com.google.gwt.event.dom.client.ClickEvent;
-import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.user.client.ui.Anchor;
-import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.HorizontalPanel;
 import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.TextBox;
+import com.smartgwt.client.widgets.IButton;
+import com.smartgwt.client.widgets.events.ClickEvent;
+import com.smartgwt.client.widgets.events.ClickHandler;
 
 /**
  * Feeds management GWT module 
@@ -55,7 +55,7 @@ public class FeedsModule implements EntryPoint {
 			feedInfo.setHref(feed.getLink());			
 			panel.add(feedInfo);
 
-			final Button removeFeedButton = new Button(messages.removeFeedButton());
+			final IButton removeFeedButton = new IButton(messages.removeFeedButton());
 			final ClickHandler removeHandler = new ClickHandler() {
 				private Long feedId = feed.getId();
 				public void onClick(ClickEvent event) {
@@ -84,12 +84,14 @@ public class FeedsModule implements EntryPoint {
 	 */
 	private void initActionButtons() {
 
-		final Button addFeedButton = new Button(messages.addFeedButton());
+		final IButton addFeedButton = new IButton(messages.addFeedButton());
 		final ClickHandler handler = new AddNewFeedHandler();
 		addFeedButton.addClickHandler(handler);
 		
 		final TextBox urlFeed = new TextBox();
 		urlFeed.setWidth("100%");
+		// TODO Just for development
+		urlFeed.setText("http://projects.apache.org/feeds/atom.xml");
 		urlFeed.getElement().setAttribute("id", IFeedsUIConstants.NEW_FEED_URL_TXTBOX_ID);
 
 		final RootPanel newFeedInfoPanel = RootPanel.get(IFeedsUIConstants.NEW_FEED_INFO_CONTAINER);
