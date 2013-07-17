@@ -63,7 +63,7 @@ public class FeedsModule implements EntryPoint {
 					feedService.removeFeed(feedId, new AsyncCallback<Void>() {
 
 						public void onFailure(Throwable caught) {
-							showError(caught, messages.errorRemoveFeed());							
+							showError(caught, messages.errorRemoveFeed(caught.getLocalizedMessage()));							
 						}
 
 						public void onSuccess(Void result) {
@@ -113,7 +113,7 @@ public class FeedsModule implements EntryPoint {
 	 */
 	private final class GetFeedsCallback implements AsyncCallback<FeedDTO[]> {
 		public void onFailure(Throwable caught) {
-			showError(caught, messages.errorGetFeeds());
+			showError(caught, messages.errorGetFeeds(caught.getLocalizedMessage()));
 		}
 
 		public void onSuccess(FeedDTO[] result) {
@@ -133,7 +133,7 @@ public class FeedsModule implements EntryPoint {
 			AsyncCallback<Long> callback = new AsyncCallback<Long>() {
 
 				public void onFailure(Throwable caught) {
-					showError(caught, messages.errorAddNewFeed());
+					showError(caught, messages.errorAddNewFeed(caught.getLocalizedMessage()));
 				}
 
 				public void onSuccess(Long result) {
@@ -152,7 +152,7 @@ public class FeedsModule implements EntryPoint {
 	private void showError(Throwable caught, String message)
 	{	
 		final Label errorLabel = (Label)UIUtils.findChildWidget(IFeedsUIConstants.FEED_ERROR_CONTAINER, IFeedsUIConstants.NEW_FEED_ERROR_ID);
-		errorLabel.setText(message + ": " + caught.getLocalizedMessage());
+		errorLabel.setText(message);
 	}
 
 }

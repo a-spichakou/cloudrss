@@ -8,7 +8,6 @@ import app.engine.rss.shared.dto.ItemDTO;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.user.client.rpc.AsyncCallback;
-import com.google.gwt.user.client.ui.HorizontalPanel;
 import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.RootPanel;
 import com.smartgwt.client.types.Overflow;
@@ -16,6 +15,7 @@ import com.smartgwt.client.types.VisibilityMode;
 import com.smartgwt.client.widgets.Canvas;
 import com.smartgwt.client.widgets.HTMLFlow;
 import com.smartgwt.client.widgets.IButton;
+import com.smartgwt.client.widgets.events.ClickHandler;
 import com.smartgwt.client.widgets.form.DynamicForm;
 import com.smartgwt.client.widgets.form.fields.SelectItem;
 import com.smartgwt.client.widgets.form.fields.events.ChangeEvent;
@@ -35,7 +35,6 @@ public class ItemsModule implements EntryPoint {
 	private final FeedServiceAsync feedService = GWT.create(FeedService.class);
 	private final ItemServiceAsync itemService = GWT.create(ItemService.class);
 	private long selectedFeedId = -1;
-	//private ListBox listBox;
 	private SelectItem selectItem;
 
 	private final Messages messages = GWT.create(Messages.class);
@@ -55,13 +54,11 @@ public class ItemsModule implements EntryPoint {
 	}
 
 	/**
-	 * Inti feeds info
+	 * Init feeds info
 	 * 
 	 * @param feeds
 	 */
 	private void initFeedsInfo(FeedDTO[] feeds) {
-		//final ListBox listBox = (ListBox) UIUtils.findChildWidget(IItemsUIConstants.FEED_INFO_CONTAINER, "feedListBox");
-
 		final LinkedHashMap<String, String> valueMap = new LinkedHashMap<String, String>();		
 
 		for (final FeedDTO feed : feeds) {
@@ -71,6 +68,7 @@ public class ItemsModule implements EntryPoint {
 		if(feeds.length>0)
 		{
 			selectItem.setValue(feeds[0].getId().toString());
+			// Make drop down disabled in case count of feeds less or equals 1
 			if(feeds.length==1)
 			{
 				selectItem.setDisabled(true);
@@ -83,12 +81,14 @@ public class ItemsModule implements EntryPoint {
 		else
 		{
 			selectItem.setDisabled(true);
-			/*valueMap.put("-1","Select feed");
-			selectItem.setValue("-1");*/
 		}
 		
 	}
 
+	/**
+	 * Init records view
+	 * @param items
+	 */
 	private void initRecordsView(ItemDTO[] items) {
 
 		final SectionStack sectionStack = (SectionStack) UIUtils.findChildWidget(IItemsUIConstants.ITEMS_CONTAINER, IItemsUIConstants.ITEMS_SECTION_STACK_ID+"_wrapper");
@@ -114,8 +114,6 @@ public class ItemsModule implements EntryPoint {
 			section.setExpanded(false);
 			sectionStack.addSection(section);
 		}
-
-		//sectionStack.draw();
 	}
 
 	/**
@@ -130,59 +128,13 @@ public class ItemsModule implements EntryPoint {
 		final DynamicForm form = new DynamicForm();
 		actionPanel.addMember(form);
 		form.setFields(selectItem);
-		selectItem.setTitle("Feeds");  
-		//selectItem.setWidth("100%");
-		
-		//actionPanel.addMember(form);
-		
-		selectItem.addChangeHandler(new ChangeHandler(){
-
-			public void onChange(ChangeEvent event) {
-				final String value = (String)selectItem.getValue();
-				selectedFeedId = Long.parseLong(value);
-				refreshViewForSelectedFeed(selectedFeedId);
-			}
-
-			private void refreshViewForSelectedFeed(long selectedFeedId) {
-				itemService.loadItems(selectedFeedId, new AsyncCallback<app.engine.rss.shared.dto.ItemDTO[]>() {
-
-					public void onFailure(Throwable caught) {
-						showError(caught, "");
-					}
-
-					public void onSuccess(app.engine.rss.shared.dto.ItemDTO[] result) {
-						initRecordsView(result);
-					}
-				});
-			}});
+		selectItem.setTitle(messages.selectFeed());  
+				
+		selectItem.addChangeHandler(new FeedSelectHandler());
 
 		final IButton checkNewItemsButton = new IButton(messages.checkNewItemsButton());
-		checkNewItemsButton.addClickHandler(new com.smartgwt.client.widgets.events.ClickHandler() {
-
-			public void onClick(com.smartgwt.client.widgets.events.ClickEvent event) {
-				final String value = (String)selectItem.getValue();
-				selectedFeedId = Long.parseLong(value);
-				itemService.downloadNewItems(selectedFeedId, new AsyncCallback<Void>() {
-
-					public void onFailure(Throwable caught) {
-						showError(caught, "");
-					}
-
-					public void onSuccess(Void result) {
-						itemService.loadItems(selectedFeedId, new AsyncCallback<app.engine.rss.shared.dto.ItemDTO[]>() {
-
-							public void onFailure(Throwable caught) {
-								showError(caught, "");
-							}
-
-							public void onSuccess(app.engine.rss.shared.dto.ItemDTO[] result) {
-								initRecordsView(result);
-							}
-						});
-					}
-				});
-			}
-		});
+		checkNewItemsButton.addClickHandler(new FeedClickHandler());
+		
 		actionPanel.addMember(checkNewItemsButton);
 
 		final Label errorLabel = new Label();
@@ -210,6 +162,47 @@ public class ItemsModule implements EntryPoint {
 	}
 
 	/**
+	 * Handler for Feeds drop down
+	 * @author aspichakou
+	 *
+	 */
+	private final class FeedSelectHandler implements ChangeHandler {
+		public void onChange(ChangeEvent event) {
+			final String value = (String)selectItem.getValue();
+			selectedFeedId = Long.parseLong(value);
+			refreshViewForSelectedFeed(selectedFeedId);
+		}
+
+		private void refreshViewForSelectedFeed(long selectedFeedId) {
+			itemService.loadItems(selectedFeedId, new LoadItemsCallBack());
+		}
+		
+	}
+	
+	/**
+	 * Handler for Feeds drop down
+	 * @author aspichakou
+	 *
+	 */
+	private final class FeedClickHandler implements ClickHandler {
+
+		public void onClick(com.smartgwt.client.widgets.events.ClickEvent event) {
+			final String value = (String)selectItem.getValue();
+			selectedFeedId = Long.parseLong(value);
+			itemService.downloadNewItems(selectedFeedId, new AsyncCallback<Void>() {
+
+				public void onFailure(Throwable caught) {
+					showError(caught, messages.errorDownloadItems(caught.getLocalizedMessage()));
+				}
+
+				public void onSuccess(Void result) {
+					itemService.loadItems(selectedFeedId, new LoadItemsCallBack());
+				}
+			});
+		}
+	}
+
+	/**
 	 * Get all available feeds callback
 	 * 
 	 * @author aspichakou
@@ -217,11 +210,21 @@ public class ItemsModule implements EntryPoint {
 	 */
 	private final class GetFeedsCallback implements AsyncCallback<FeedDTO[]> {
 		public void onFailure(Throwable caught) {
-			showError(caught, messages.errorGetFeeds());
+			showError(caught, messages.errorGetFeeds(caught.getLocalizedMessage()));
 		}
 
 		public void onSuccess(FeedDTO[] result) {
 			initFeedsInfo(result);
+		}
+	}
+
+	private final class LoadItemsCallBack implements AsyncCallback<app.engine.rss.shared.dto.ItemDTO[]> {
+		public void onFailure(Throwable caught) {
+			showError(caught, messages.errorLoadItems(caught.getLocalizedMessage()));
+		}
+	
+		public void onSuccess(app.engine.rss.shared.dto.ItemDTO[] result) {
+			initRecordsView(result);
 		}
 	}
 
@@ -233,7 +236,7 @@ public class ItemsModule implements EntryPoint {
 	 */
 	private void showError(Throwable caught, String message) {
 		final Label errorLabel = (Label) UIUtils.findChildWidget(IItemsUIConstants.ERROR_LABEL_CONTAINER, IItemsUIConstants.ERROR_LABEL_ID);
-		errorLabel.setText(message + ": " + caught.getLocalizedMessage());
+		errorLabel.setText(message);
 	}
 
 }
