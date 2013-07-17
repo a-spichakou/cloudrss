@@ -15,12 +15,13 @@ import com.smartgwt.client.types.VisibilityMode;
 import com.smartgwt.client.widgets.Canvas;
 import com.smartgwt.client.widgets.HTMLFlow;
 import com.smartgwt.client.widgets.IButton;
+import com.smartgwt.client.widgets.events.ClickEvent;
 import com.smartgwt.client.widgets.events.ClickHandler;
 import com.smartgwt.client.widgets.form.DynamicForm;
 import com.smartgwt.client.widgets.form.fields.SelectItem;
 import com.smartgwt.client.widgets.form.fields.events.ChangeEvent;
 import com.smartgwt.client.widgets.form.fields.events.ChangeHandler;
-import com.smartgwt.client.widgets.layout.HStack;
+import com.smartgwt.client.widgets.layout.HLayout;
 import com.smartgwt.client.widgets.layout.SectionStack;
 import com.smartgwt.client.widgets.layout.SectionStackSection;
 
@@ -100,9 +101,10 @@ public class ItemsModule implements EntryPoint {
 		sectionStack.redraw();
 
 		for (ItemDTO item : items) {
+			final Long itemId = item.getId();
 			final IButton markAsReadButton = new IButton(messages.markAsReadButton());
-			final IButton removeItemButton = new IButton(messages.removeItemButton());
-
+			markAsReadButton.addClickHandler(new MarkAsReadHandler(itemId));
+			
 			final SectionStackSection section = new SectionStackSection();
 
 			final HTMLFlow htmlFlow = new HTMLFlow();
@@ -110,7 +112,7 @@ public class ItemsModule implements EntryPoint {
 			section.setTitle(item.getTitle());
 
 			section.setItems(htmlFlow);
-			section.setControls(markAsReadButton, removeItemButton);
+			section.setControls(markAsReadButton);
 			section.setExpanded(false);
 			sectionStack.addSection(section);
 		}
@@ -121,11 +123,15 @@ public class ItemsModule implements EntryPoint {
 	 */
 	private void initActionButtons() {
 		final RootPanel newFeedInfoPanel = RootPanel.get(IItemsUIConstants.FEED_INFO_CONTAINER);		
-		final HStack actionPanel = new HStack();
+		final HLayout actionPanel = new HLayout();
+		actionPanel.setMembersMargin(5);  
+		actionPanel.setLayoutMargin(10); 		
 		newFeedInfoPanel.add(actionPanel);
 		
 		selectItem = new SelectItem();
 		final DynamicForm form = new DynamicForm();
+		form.setWidth(250);
+		
 		actionPanel.addMember(form);
 		form.setFields(selectItem);
 		selectItem.setTitle(messages.selectFeed());  
@@ -133,8 +139,7 @@ public class ItemsModule implements EntryPoint {
 		selectItem.addChangeHandler(new FeedSelectHandler());
 
 		final IButton checkNewItemsButton = new IButton(messages.checkNewItemsButton());
-		checkNewItemsButton.addClickHandler(new FeedClickHandler());
-		
+		checkNewItemsButton.addClickHandler(new FeedClickHandler());				
 		actionPanel.addMember(checkNewItemsButton);
 
 		final Label errorLabel = new Label();
@@ -159,6 +164,28 @@ public class ItemsModule implements EntryPoint {
 		final RootPanel container = RootPanel.get(IItemsUIConstants.ITEMS_CONTAINER);
 		container.add(sectionStack);
 
+	}
+
+	private final class MarkAsReadHandler implements ClickHandler {
+		private final Long itemId;
+
+		private MarkAsReadHandler(Long itemId) {
+			this.itemId = itemId;
+		}
+
+		public void onClick(ClickEvent event) {
+			itemService.markAsRead(itemId, new AsyncCallback<Void>() {
+				
+				public void onSuccess(Void result) {
+					// TODO Auto-generated method stub
+					
+				}
+				
+				public void onFailure(Throwable caught) {
+					showError(caught, messages.markAsReadError(caught.getLocalizedMessage()));
+				}
+			});
+		}
 	}
 
 	/**

@@ -162,7 +162,7 @@
 						<server>com.google.appengine.tools.development.gwt.AppEngineLauncher</server>
 						<appEngineVersion>${gaeVersion}</appEngineVersion>
 						<appEngineHome>${appEngineSdk}</appEngineHome>
-						<extraJvmArgs>-Xmx512m -XX:MaxPermSize=512m</extraJvmArgs> 
+						<extraJvmArgs>-Xmx1024m -XX:MaxPermSize=1024m</extraJvmArgs> 
 
 						<generateDirectory>${project.build.directory}/generated-sources</generateDirectory>
 						<!-- logLevel>TRACE</logLevel -->
