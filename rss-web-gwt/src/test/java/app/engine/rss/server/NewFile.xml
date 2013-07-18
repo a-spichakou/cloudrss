@@ -1,0 +1,1253 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='http://rss.nytimes.com/xsl/eng/rss.xsl'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+	<channel>
+		<atom:link href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+			rel="self" type="application/rss+xml" />
+		<title>NYT &gt; Home Page</title>
+		<link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+		<description>HomePage</description>
+		<language>en-us</language>
+		<copyright>Copyright 2013 The New York Times Company</copyright>
+		<pubDate>Thu, 18 Jul 2013 14:29:30 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Jul 2013 14:29:30 GMT</lastBuildDate>
+		<ttl>2</ttl>
+		<image>
+			<title>NYT &gt; Home Page</title>
+			<url>http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png</url>
+			<link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+		</image>
+		<item>
+			<atom:link
+				href="http://artsbeat.blogs.nytimes.com/2013/07/18/watching-for-the-2013-primetime-emmy-nominations/?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>ArtsBeat: Netflix Does Well in 2013 Primetime Emmy Nominations</title>
+			<link>http://artsbeat.blogs.nytimes.com/2013/07/18/watching-for-the-2013-primetime-emmy-nominations/?partner=rss&amp;emc=rss</link>
+			<description>The online network Netflix officially joined its cable
+				and broadcast counterparts on Thursday, picking up a best drama
+				nomination for the political thriller “House of Cards.”&lt;img
+				width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed6d0f4/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fartsbeat.blogs.nytimes.com%2F2013%2F07%2F18%2Fwatching-for-the-2013-primetime-emmy-nominations%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=ArtsBeat%3A+Netflix+Does+Well+in+2013+Primetime+Emmy+Nominations"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fartsbeat.blogs.nytimes.com%2F2013%2F07%2F18%2Fwatching-for-the-2013-primetime-emmy-nominations%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=ArtsBeat%3A+Netflix+Does+Well+in+2013+Primetime+Emmy+Nominations"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fartsbeat.blogs.nytimes.com%2F2013%2F07%2F18%2Fwatching-for-the-2013-primetime-emmy-nominations%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=ArtsBeat%3A+Netflix+Does+Well+in+2013+Primetime+Emmy+Nominations"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fartsbeat.blogs.nytimes.com%2F2013%2F07%2F18%2Fwatching-for-the-2013-primetime-emmy-nominations%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=ArtsBeat%3A+Netflix+Does+Well+in+2013+Primetime+Emmy+Nominations"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fartsbeat.blogs.nytimes.com%2F2013%2F07%2F18%2Fwatching-for-the-2013-primetime-emmy-nominations%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=ArtsBeat%3A+Netflix+Does+Well+in+2013+Primetime+Emmy+Nominations"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165667293689/u/393/f/640350/c/34625/s/2ed6d0f4/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165667293689/u/393/f/640350/c/34625/s/2ed6d0f4/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165667293689/u/393/f/640350/c/34625/s/2ed6d0f4/a2t.img"
+				border="0"/&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/">Emmy Awards</category>
+			<category domain="http://www.nytimes.com/namespaces/">The Emmy Awards</category>
+			<category domain="http://www.nytimes.com/namespaces/">Television</category>
+			<category domain="http://www.nytimes.com/namespaces/">featured</category>
+			<pubDate>Thu, 18 Jul 2013 14:26:46 GMT</pubDate>
+			<guid isPermaLink="false">http://artsbeat.blogs.nytimes.com/2013/07/18/watching-for-the-2013-primetime-emmy-nominations/</guid>
+			<dc:creator>By BRIAN STELTER</dc:creator>
+			<media:credit scheme="urn:ebu">Melinda Sue Gordon for Netflix</media:credit>
+			<media:description>Kevin Spacey and Robin Wright were both nominated
+				for their roles in "House of Cards."</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/arts/18artsbeat-hoc/18artsbeat-hoc-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/19/us/judge-in-manning-case-allows-charge-of-aiding-the-enemy.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Judge in Manning Case Allows Charge of Aiding the Enemy</title>
+			<link>http://www.nytimes.com/2013/07/19/us/judge-in-manning-case-allows-charge-of-aiding-the-enemy.html?partner=rss&amp;emc=rss</link>
+			<description>The military judge in the trial of Pfc. Bradley Manning
+				decided on Thursday not to drop a charge accusing Private Manning of
+				“aiding the enemy.”&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed802ae/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fus%2Fjudge-in-manning-case-allows-charge-of-aiding-the-enemy.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Judge+in+Manning+Case+Allows+Charge+of+Aiding+the+Enemy"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fus%2Fjudge-in-manning-case-allows-charge-of-aiding-the-enemy.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Judge+in+Manning+Case+Allows+Charge+of+Aiding+the+Enemy"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fus%2Fjudge-in-manning-case-allows-charge-of-aiding-the-enemy.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Judge+in+Manning+Case+Allows+Charge+of+Aiding+the+Enemy"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fus%2Fjudge-in-manning-case-allows-charge-of-aiding-the-enemy.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Judge+in+Manning+Case+Allows+Charge+of+Aiding+the+Enemy"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fus%2Fjudge-in-manning-case-allows-charge-of-aiding-the-enemy.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Judge+in+Manning+Case+Allows+Charge+of+Aiding+the+Enemy"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<pubDate>Thu, 18 Jul 2013 14:20:05 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/19/us/judge-in-manning-case-allows-charge-of-aiding-the-enemy.html</guid>
+			<dc:creator>By ERIN BANCO</dc:creator>
+		</item>
+		<item>
+			<atom:link
+				href="http://cityroom.blogs.nytimes.com/2013/07/18/new-york-today-be-cool/?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>City Room: New York Today: Be Cool</title>
+			<link>http://cityroom.blogs.nytimes.com/2013/07/18/new-york-today-be-cool/?partner=rss&amp;emc=rss</link>
+			<description>What you need to know for Thursday: Unusual places to
+				cool off on another very hot day, Nelson Mandela’s 95th birthday and
+				a lost chicken is rescued in Brooklyn.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed48456/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fcityroom.blogs.nytimes.com%2F2013%2F07%2F18%2Fnew-york-today-be-cool%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=City+Room%3A+New+York+Today%3A+Be+Cool"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fcityroom.blogs.nytimes.com%2F2013%2F07%2F18%2Fnew-york-today-be-cool%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=City+Room%3A+New+York+Today%3A+Be+Cool"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fcityroom.blogs.nytimes.com%2F2013%2F07%2F18%2Fnew-york-today-be-cool%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=City+Room%3A+New+York+Today%3A+Be+Cool"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fcityroom.blogs.nytimes.com%2F2013%2F07%2F18%2Fnew-york-today-be-cool%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=City+Room%3A+New+York+Today%3A+Be+Cool"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fcityroom.blogs.nytimes.com%2F2013%2F07%2F18%2Fnew-york-today-be-cool%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=City+Room%3A+New+York+Today%3A+Be+Cool"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165667287112/u/393/f/640350/c/34625/s/2ed48456/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165667287112/u/393/f/640350/c/34625/s/2ed48456/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165667287112/u/393/f/640350/c/34625/s/2ed48456/a2t.img"
+				border="0"/&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/">New York Today</category>
+			<pubDate>Thu, 18 Jul 2013 14:17:21 GMT</pubDate>
+			<guid isPermaLink="false">http://cityroom.blogs.nytimes.com/2013/07/18/new-york-today-be-cool/</guid>
+			<dc:creator>By SARAH MASLIN NIR</dc:creator>
+			<media:credit scheme="urn:ebu">Nicole Bengiveno/The New York Times</media:credit>
+			<media:description>Any shade will do: escaping the sun on a
+				non-tropical island on Ninth Avenue.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/nyregion/NYTTODAYcool4/NYTTODAYcool4-moth-v3.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://dealbook.nytimes.com/2013/07/18/dell-deal-said-to-lack-enough-votes-for-approval-but-big-investors-start-to-turn/?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>DealBook: Dell Adjourns Vote on Deal as Some Big Investors
+				Start to Shift</title>
+			<link>http://dealbook.nytimes.com/2013/07/18/dell-deal-said-to-lack-enough-votes-for-approval-but-big-investors-start-to-turn/?partner=rss&amp;emc=rss</link>
+			<description>Dell adjourned a vote on its proposed $24.4 billion sale
+				to its founder on Thursday morning, signaling that the planned
+				transaction lacked enough support from shareholders.&lt;img
+				width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed767ca/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F18%2Fdell-deal-said-to-lack-enough-votes-for-approval-but-big-investors-start-to-turn%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+Dell+Adjourns+Vote+on+Deal+as+Some+Big+Investors+Start+to+Shift"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F18%2Fdell-deal-said-to-lack-enough-votes-for-approval-but-big-investors-start-to-turn%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+Dell+Adjourns+Vote+on+Deal+as+Some+Big+Investors+Start+to+Shift"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F18%2Fdell-deal-said-to-lack-enough-votes-for-approval-but-big-investors-start-to-turn%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+Dell+Adjourns+Vote+on+Deal+as+Some+Big+Investors+Start+to+Shift"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F18%2Fdell-deal-said-to-lack-enough-votes-for-approval-but-big-investors-start-to-turn%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+Dell+Adjourns+Vote+on+Deal+as+Some+Big+Investors+Start+to+Shift"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F18%2Fdell-deal-said-to-lack-enough-votes-for-approval-but-big-investors-start-to-turn%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+Dell+Adjourns+Vote+on+Deal+as+Some+Big+Investors+Start+to+Shift"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165667294850/u/393/f/640350/c/34625/s/2ed767ca/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165667294850/u/393/f/640350/c/34625/s/2ed767ca/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165667294850/u/393/f/640350/c/34625/s/2ed767ca/a2t.img"
+				border="0"/&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/">Silver Lake Partners</category>
+			<category domain="http://www.nytimes.com/namespaces/">State Street Corporation</category>
+			<category domain="http://www.nytimes.com/namespaces/">Dell Inc|DELL|NASDAQ</category>
+			<category domain="http://www.nytimes.com/namespaces/">Vanguard Group Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/">State Street Corporation|STT|NYSE</category>
+			<category domain="http://www.nytimes.com/namespaces/">Technology</category>
+			<category domain="http://www.nytimes.com/namespaces/">Bank of New York Mellon Corporation|BK|NYSE</category>
+			<category domain="http://www.nytimes.com/namespaces/">Private Equity</category>
+			<category domain="http://www.nytimes.com/namespaces/">Mergers &amp; Acquisitions</category>
+			<category domain="http://www.nytimes.com/namespaces/">Dell, Michael S</category>
+			<category domain="http://www.nytimes.com/namespaces/">Top Headline 1</category>
+			<category domain="http://www.nytimes.com/namespaces/">Mergers, Acquisitions and Divestitures</category>
+			<category domain="http://www.nytimes.com/namespaces/">Bank of New York Mellon Corporation</category>
+			<category domain="http://www.nytimes.com/namespaces/">BlackRock Inc</category>
+			<category domain="http://www.nytimes.com/namespaces/">BlackRock Inc|BLK|NYSE</category>
+			<category domain="http://www.nytimes.com/namespaces/">Dell Inc</category>
+			<pubDate>Thu, 18 Jul 2013 13:37:48 GMT</pubDate>
+			<guid isPermaLink="false">http://dealbook.nytimes.com/2013/07/18/dell-deal-said-to-lack-enough-votes-for-approval-but-big-investors-start-to-turn/</guid>
+			<dc:creator>By MICHAEL J. DE LA MERCED</dc:creator>
+			<media:credit scheme="urn:ebu">Kimihiro Hoshino/Agence
+				France-Presse — Getty Images</media:credit>
+			<media:description>Michael S. Dell, the founder of the computer
+				company that bears his name.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/06/01/business/dbpix-dell/dbpix-dell-moth-v2.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/19/world/asia/insurgents-kill-afghans-near-us-base.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Insurgents Kill 8 Afghans Near U.S. Base</title>
+			<link>http://www.nytimes.com/2013/07/19/world/asia/insurgents-kill-afghans-near-us-base.html?partner=rss&amp;emc=rss</link>
+			<description>Eight Afghan men heading to work at an American base on
+				Thursday morning were pulled from their car by insurgents and
+				killed, officials said.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed767d1/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fasia%2Finsurgents-kill-afghans-near-us-base.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Insurgents+Kill+8+Afghans+Near+U.S.+Base"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fasia%2Finsurgents-kill-afghans-near-us-base.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Insurgents+Kill+8+Afghans+Near+U.S.+Base"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fasia%2Finsurgents-kill-afghans-near-us-base.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Insurgents+Kill+8+Afghans+Near+U.S.+Base"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fasia%2Finsurgents-kill-afghans-near-us-base.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Insurgents+Kill+8+Afghans+Near+U.S.+Base"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fasia%2Finsurgents-kill-afghans-near-us-base.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Insurgents+Kill+8+Afghans+Near+U.S.+Base"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Taliban</category>
+			<pubDate>Thu, 18 Jul 2013 13:17:47 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/19/world/asia/insurgents-kill-afghans-near-us-base.html</guid>
+			<dc:creator>By MATTHEW ROSENBERG</dc:creator>
+		</item>
+		<item>
+			<atom:link
+				href="http://dealbook.nytimes.com/2013/07/18/morgan-stanley-profit-rises-42-percent/?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>DealBook: Morgan Stanley Posts 42% Rise in Profit and Sets
+				Stock Buyback</title>
+			<link>http://dealbook.nytimes.com/2013/07/18/morgan-stanley-profit-rises-42-percent/?partner=rss&amp;emc=rss</link>
+			<description>Morgan Stanley reported adjusted earnings for the second
+				quarter that slightly beat analysts’ estimates, driven by a strong
+				performance from its wealth management unit and equity sales and
+				trading.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed71495/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F18%2Fmorgan-stanley-profit-rises-42-percent%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+Morgan+Stanley+Posts+42%25+Rise+in+Profit+and+Sets+Stock+Buyback"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F18%2Fmorgan-stanley-profit-rises-42-percent%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+Morgan+Stanley+Posts+42%25+Rise+in+Profit+and+Sets+Stock+Buyback"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F18%2Fmorgan-stanley-profit-rises-42-percent%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+Morgan+Stanley+Posts+42%25+Rise+in+Profit+and+Sets+Stock+Buyback"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F18%2Fmorgan-stanley-profit-rises-42-percent%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+Morgan+Stanley+Posts+42%25+Rise+in+Profit+and+Sets+Stock+Buyback"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F18%2Fmorgan-stanley-profit-rises-42-percent%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+Morgan+Stanley+Posts+42%25+Rise+in+Profit+and+Sets+Stock+Buyback"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165667293690/u/393/f/640350/c/34625/s/2ed71495/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165667293690/u/393/f/640350/c/34625/s/2ed71495/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165667293690/u/393/f/640350/c/34625/s/2ed71495/a2t.img"
+				border="0"/&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/">Wall Street Earnings</category>
+			<category domain="http://www.nytimes.com/namespaces/">Investment Banking</category>
+			<category domain="http://www.nytimes.com/namespaces/">Financial Services</category>
+			<category domain="http://www.nytimes.com/namespaces/">Top Headline 1</category>
+			<pubDate>Thu, 18 Jul 2013 13:12:38 GMT</pubDate>
+			<guid isPermaLink="false">http://dealbook.nytimes.com/2013/07/18/morgan-stanley-profit-rises-42-percent/</guid>
+			<dc:creator>By SUSANNE CRAIG</dc:creator>
+			<media:credit scheme="urn:ebu">Richard Drew/Associated Press</media:credit>
+			<media:description>James Gorman is the chief executive of Morgan
+				Stanley.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/05/29/business/dealbook/dbpix-gorman/dbpix-gorman-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://dealbook.nytimes.com/2013/07/17/jpmorgan-in-talks-to-settle-energy-manipulation-case-for-500-million/?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>DealBook: In Energy Case, a Fresh Tactic by JPMorgan: A Push
+				to Settle</title>
+			<link>http://dealbook.nytimes.com/2013/07/17/jpmorgan-in-talks-to-settle-energy-manipulation-case-for-500-million/?partner=rss&amp;emc=rss</link>
+			<description>JPMorgan Chase wants to settle accusations by the
+				Federal Energy Regulatory Commission that it gleaned profits from
+				power plants via “manipulative schemes.”&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ecd8c38/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F17%2Fjpmorgan-in-talks-to-settle-energy-manipulation-case-for-500-million%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+In+Energy+Case%2C+a+Fresh+Tactic+by+JPMorgan%3A+A+Push+to+Settle"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F17%2Fjpmorgan-in-talks-to-settle-energy-manipulation-case-for-500-million%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+In+Energy+Case%2C+a+Fresh+Tactic+by+JPMorgan%3A+A+Push+to+Settle"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F17%2Fjpmorgan-in-talks-to-settle-energy-manipulation-case-for-500-million%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+In+Energy+Case%2C+a+Fresh+Tactic+by+JPMorgan%3A+A+Push+to+Settle"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F17%2Fjpmorgan-in-talks-to-settle-energy-manipulation-case-for-500-million%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+In+Energy+Case%2C+a+Fresh+Tactic+by+JPMorgan%3A+A+Push+to+Settle"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fdealbook.nytimes.com%2F2013%2F07%2F17%2Fjpmorgan-in-talks-to-settle-energy-manipulation-case-for-500-million%2F%3Fpartner%3Drss%26emc%3Drss&amp;t=DealBook%3A+In+Energy+Case%2C+a+Fresh+Tactic+by+JPMorgan%3A+A+Push+to+Settle"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165666147517/u/393/f/640350/c/34625/s/2ecd8c38/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165666147517/u/393/f/640350/c/34625/s/2ecd8c38/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165666147517/u/393/f/640350/c/34625/s/2ecd8c38/a2t.img"
+				border="0"/&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/">Energy</category>
+			<category domain="http://www.nytimes.com/namespaces/">Regulation and Deregulation of Industry</category>
+			<category domain="http://www.nytimes.com/namespaces/">Investment Banking</category>
+			<category domain="http://www.nytimes.com/namespaces/">Federal Energy Regulatory Commission</category>
+			<category domain="http://www.nytimes.com/namespaces/">Fines (Penalties)</category>
+			<category domain="http://www.nytimes.com/namespaces/">Legal/Regulatory</category>
+			<category domain="http://www.nytimes.com/namespaces/">Barclays PLC</category>
+			<category domain="http://www.nytimes.com/namespaces/">Masters, Blythe</category>
+			<category domain="http://www.nytimes.com/namespaces/">JPMorgan Chase &amp; Company</category>
+			<category domain="http://www.nytimes.com/namespaces/">Energy and Power</category>
+			<category domain="http://www.nytimes.com/namespaces/">Financial Services</category>
+			<category domain="http://www.nytimes.com/namespaces/">Top Headline 1</category>
+			<pubDate>Thu, 18 Jul 2013 13:07:57 GMT</pubDate>
+			<guid isPermaLink="false">http://dealbook.nytimes.com/2013/07/17/jpmorgan-in-talks-to-settle-energy-manipulation-case-for-500-million/</guid>
+			<dc:creator>By BEN PROTESS and JESSICA SILVER-GREENBERG</dc:creator>
+			<media:credit scheme="urn:ebu">Manuel Balce Ceneta/Associated
+				Press</media:credit>
+			<media:description>It is unclear whether FERC will pursue a separate
+				action against Blythe Masters, a senior JPMorgan executive.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/business/dbpix-jpmorgan2/dbpix-jpmorgan2-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/19/world/asia/steam-detected-at-damaged-fukushima-reactor.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Steam Detected at Damaged Fukushima Reactor</title>
+			<link>http://www.nytimes.com/2013/07/19/world/asia/steam-detected-at-damaged-fukushima-reactor.html?partner=rss&amp;emc=rss</link>
+			<description>The operator of the ravaged nuclear plant in Japan stood
+				ready Thursday to inject boric acid into the reactor if temperature
+				or radiation levels rose.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed3cbcb/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fasia%2Fsteam-detected-at-damaged-fukushima-reactor.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Steam+Detected+at+Damaged+Fukushima+Reactor"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fasia%2Fsteam-detected-at-damaged-fukushima-reactor.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Steam+Detected+at+Damaged+Fukushima+Reactor"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fasia%2Fsteam-detected-at-damaged-fukushima-reactor.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Steam+Detected+at+Damaged+Fukushima+Reactor"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fasia%2Fsteam-detected-at-damaged-fukushima-reactor.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Steam+Detected+at+Damaged+Fukushima+Reactor"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fasia%2Fsteam-detected-at-damaged-fukushima-reactor.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Steam+Detected+at+Damaged+Fukushima+Reactor"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165666231651/u/393/f/640350/c/34625/s/2ed3cbcb/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165666231651/u/393/f/640350/c/34625/s/2ed3cbcb/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165666231651/u/393/f/640350/c/34625/s/2ed3cbcb/a2t.img"
+				border="0"/&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Fukushima Daiichi Nuclear Power Plant
+				(Japan)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Japan Earthquake and Tsunami (2011)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+			<pubDate>Thu, 18 Jul 2013 12:01:41 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/19/world/asia/steam-detected-at-damaged-fukushima-reactor.html</guid>
+			<dc:creator>By HIROKO TABUCHI</dc:creator>
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/19/world/europe/russian-court-convicts-opposition-leader-aleksei-navalny.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Russian Court Convicts Opposition Leader</title>
+			<link>http://www.nytimes.com/2013/07/19/world/europe/russian-court-convicts-opposition-leader-aleksei-navalny.html?partner=rss&amp;emc=rss</link>
+			<description>Aleksei A. Navalny, Russia’s most resonant opposition
+				voice and a Moscow mayoral candidate, was sentenced to five years in
+				prison on embezzlement charges.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed12947/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Feurope%2Frussian-court-convicts-opposition-leader-aleksei-navalny.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Russian+Court+Convicts+Opposition+Leader"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Feurope%2Frussian-court-convicts-opposition-leader-aleksei-navalny.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Russian+Court+Convicts+Opposition+Leader"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Feurope%2Frussian-court-convicts-opposition-leader-aleksei-navalny.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Russian+Court+Convicts+Opposition+Leader"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Feurope%2Frussian-court-convicts-opposition-leader-aleksei-navalny.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Russian+Court+Convicts+Opposition+Leader"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Feurope%2Frussian-court-convicts-opposition-leader-aleksei-navalny.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Russian+Court+Convicts+Opposition+Leader"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165667278234/u/393/f/640350/c/34625/s/2ed12947/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165667278234/u/393/f/640350/c/34625/s/2ed12947/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165667278234/u/393/f/640350/c/34625/s/2ed12947/a2t.img"
+				border="0"/&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Embezzlement</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Navalny, Aleksei A</category>
+			<pubDate>Thu, 18 Jul 2013 09:43:54 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/19/world/europe/russian-court-convicts-opposition-leader-aleksei-navalny.html</guid>
+			<dc:creator>By DAVID M. HERSZENHORN</dc:creator>
+			<media:credit scheme="urn:ebu">Valentina Svistunova/European
+				Pressphoto Agency</media:credit>
+			<media:description>Aleksei A. Navalny, Russia’s most resonant
+				opposition voice and a Moscow mayoral candidate, reacts as the court
+				delivers the verdict on Thursday in Kirov, Russia.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/global-home/19russia-cnd/18russia-cnd-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/19/world/africa/mandela-birthday.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Mandela Said to Be ‘Steadily Improving’ on 95th Birthday</title>
+			<link>http://www.nytimes.com/2013/07/19/world/africa/mandela-birthday.html?partner=rss&amp;emc=rss</link>
+			<description>After weeks battling critical illness, Nelson Mandela
+				spent his 95th birthday in the hospital on Thursday, and South
+				Africans across the country celebrated Mandela Day.&lt;img width='1'
+				height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed23243/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fafrica%2Fmandela-birthday.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Mandela+Said+to+Be+%E2%80%98Steadily+Improving%E2%80%99+on+95th+Birthday"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fafrica%2Fmandela-birthday.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Mandela+Said+to+Be+%E2%80%98Steadily+Improving%E2%80%99+on+95th+Birthday"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fafrica%2Fmandela-birthday.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Mandela+Said+to+Be+%E2%80%98Steadily+Improving%E2%80%99+on+95th+Birthday"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fafrica%2Fmandela-birthday.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Mandela+Said+to+Be+%E2%80%98Steadily+Improving%E2%80%99+on+95th+Birthday"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F19%2Fworld%2Fafrica%2Fmandela-birthday.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Mandela+Said+to+Be+%E2%80%98Steadily+Improving%E2%80%99+on+95th+Birthday"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165666731657/u/393/f/640350/c/34625/s/2ed23243/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165666731657/u/393/f/640350/c/34625/s/2ed23243/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165666731657/u/393/f/640350/c/34625/s/2ed23243/a2t.img"
+				border="0"/&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mandela, Nelson</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+			<pubDate>Thu, 18 Jul 2013 08:30:10 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/19/world/africa/mandela-birthday.html</guid>
+			<dc:creator>By LYDIA POLGREEN and ALAN COWELL</dc:creator>
+			<media:credit scheme="urn:ebu">Stephane De Sakutin/Agence
+				France-Presse — Getty Images</media:credit>
+			<media:description>A crowd sings "Happy Birthday" to Nelson Mandela,
+				the former president of South Africa, outside the Mediclinic Heart
+				Hospital in Pretoria.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/19/global-home/19johannesburg-cnd1/19johannesburg-cnd1-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/nyregion/voters-approve-of-citys-progress-poll-finds-but-seek-empathetic-mayor.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Voters Approve of City’s Progress, Poll Finds, but Seek
+				Empathetic Mayor</title>
+			<link>http://www.nytimes.com/2013/07/18/nyregion/voters-approve-of-citys-progress-poll-finds-but-seek-empathetic-mayor.html?partner=rss&amp;emc=rss</link>
+			<description>Sixty-one percent of voters said a candidate’s ability
+				to understand the needs and problems of ordinary New Yorkers was the
+				most important factor in the race.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed13236/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fnyregion%2Fvoters-approve-of-citys-progress-poll-finds-but-seek-empathetic-mayor.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Voters+Approve+of+City%E2%80%99s+Progress%2C+Poll+Finds%2C+but+Seek+Empathetic+Mayor"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fnyregion%2Fvoters-approve-of-citys-progress-poll-finds-but-seek-empathetic-mayor.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Voters+Approve+of+City%E2%80%99s+Progress%2C+Poll+Finds%2C+but+Seek+Empathetic+Mayor"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fnyregion%2Fvoters-approve-of-citys-progress-poll-finds-but-seek-empathetic-mayor.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Voters+Approve+of+City%E2%80%99s+Progress%2C+Poll+Finds%2C+but+Seek+Empathetic+Mayor"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fnyregion%2Fvoters-approve-of-citys-progress-poll-finds-but-seek-empathetic-mayor.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Voters+Approve+of+City%E2%80%99s+Progress%2C+Poll+Finds%2C+but+Seek+Empathetic+Mayor"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fnyregion%2Fvoters-approve-of-citys-progress-poll-finds-but-seek-empathetic-mayor.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Voters+Approve+of+City%E2%80%99s+Progress%2C+Poll+Finds%2C+but+Seek+Empathetic+Mayor"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165667279239/u/393/f/640350/c/34625/s/2ed13236/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165667279239/u/393/f/640350/c/34625/s/2ed13236/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165667279239/u/393/f/640350/c/34625/s/2ed13236/a2t.img"
+				border="0"/&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Elections, Mayors</category>
+			<pubDate>Thu, 18 Jul 2013 06:48:19 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/nyregion/voters-approve-of-citys-progress-poll-finds-but-seek-empathetic-mayor.html</guid>
+			<dc:creator>By DAVID W. CHEN and MEGAN THEE-BRENAN</dc:creator>
+			<media:credit scheme="urn:ebu">Karsten Moran for The New York
+				Times</media:credit>
+			<media:description>The poll found Christine C. Quinn leading among
+				Democratic voters by nine percentage points.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/nyregion/Poll-1/Poll-1-moth.jpg" />
+		</item>
+		<item>
+			<title>Russian Opposition Leader Navalny Found Guilty</title>
+			<link>http://www.nytimes.com/aponline/2013/07/18/world/europe/ap-eu-russia-opposition-trial.html?partner=rss&amp;emc=rss</link>
+			<description>A Russian judge on Thursday found opposition leader
+				Alexei Navalny guilty of theft, a ruling that could send the
+				charismatic anti-corruption blogger and Moscow mayoral candidate to
+				prison for up to six years.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed0bba5/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2Faponline%2F2013%2F07%2F18%2Fworld%2Feurope%2Fap-eu-russia-opposition-trial.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Russian+Opposition+Leader+Navalny+Found+Guilty"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2Faponline%2F2013%2F07%2F18%2Fworld%2Feurope%2Fap-eu-russia-opposition-trial.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Russian+Opposition+Leader+Navalny+Found+Guilty"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2Faponline%2F2013%2F07%2F18%2Fworld%2Feurope%2Fap-eu-russia-opposition-trial.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Russian+Opposition+Leader+Navalny+Found+Guilty"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2Faponline%2F2013%2F07%2F18%2Fworld%2Feurope%2Fap-eu-russia-opposition-trial.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Russian+Opposition+Leader+Navalny+Found+Guilty"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2Faponline%2F2013%2F07%2F18%2Fworld%2Feurope%2Fap-eu-russia-opposition-trial.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Russian+Opposition+Leader+Navalny+Found+Guilty"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165667276826/u/393/f/640350/c/34625/s/2ed0bba5/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165667276826/u/393/f/640350/c/34625/s/2ed0bba5/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165667276826/u/393/f/640350/c/34625/s/2ed0bba5/a2t.img"
+				border="0"/&gt;</description>
+			<pubDate>Thu, 18 Jul 2013 06:20:05 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/aponline/2013/07/18/world/europe/ap-eu-russia-opposition-trial.html</guid>
+			<dc:creator>By THE ASSOCIATED PRESS</dc:creator>
+		</item>
+		<item>
+			<title>Southern California Wildfire Forces Evacuation of Mountain
+				Resort</title>
+			<link>http://www.nytimes.com/reuters/2013/07/18/us/18reuters-usa-fire-california.html?partner=rss&amp;emc=rss</link>
+			<description>A fast-growing wildfire in the mountains of Southern
+				California forced the evacuation on Wednesday of the popular resort
+				community of Idyllwild after flames engulfed seven homes and
+				numerous other buildings.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed11ef5/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2Freuters%2F2013%2F07%2F18%2Fus%2F18reuters-usa-fire-california.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Southern+California+Wildfire+Forces+Evacuation+of+Mountain+Resort"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2Freuters%2F2013%2F07%2F18%2Fus%2F18reuters-usa-fire-california.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Southern+California+Wildfire+Forces+Evacuation+of+Mountain+Resort"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2Freuters%2F2013%2F07%2F18%2Fus%2F18reuters-usa-fire-california.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Southern+California+Wildfire+Forces+Evacuation+of+Mountain+Resort"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2Freuters%2F2013%2F07%2F18%2Fus%2F18reuters-usa-fire-california.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Southern+California+Wildfire+Forces+Evacuation+of+Mountain+Resort"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2Freuters%2F2013%2F07%2F18%2Fus%2F18reuters-usa-fire-california.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Southern+California+Wildfire+Forces+Evacuation+of+Mountain+Resort"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<pubDate>Thu, 18 Jul 2013 04:16:07 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/reuters/2013/07/18/us/18reuters-usa-fire-california.html</guid>
+			<dc:creator>By REUTERS</dc:creator>
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/world/asia/in-china-and-us-mutual-distrust-grows-study-finds.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>In China and U.S., Mutual Distrust Grows, Study Finds</title>
+			<link>http://www.nytimes.com/2013/07/18/world/asia/in-china-and-us-mutual-distrust-grows-study-finds.html?partner=rss&amp;emc=rss</link>
+			<description>A Pew survey found that since 2011, China’s approval
+				rating in the United States dropped to 37 percent and negative
+				attitudes toward the United States among the Chinese rose to 53
+				percent.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed0a1ad/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fworld%2Fasia%2Fin-china-and-us-mutual-distrust-grows-study-finds.html%3Fpartner%3Drss%26emc%3Drss&amp;t=In+China+and+U.S.%2C+Mutual+Distrust+Grows%2C+Study+Finds"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fworld%2Fasia%2Fin-china-and-us-mutual-distrust-grows-study-finds.html%3Fpartner%3Drss%26emc%3Drss&amp;t=In+China+and+U.S.%2C+Mutual+Distrust+Grows%2C+Study+Finds"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fworld%2Fasia%2Fin-china-and-us-mutual-distrust-grows-study-finds.html%3Fpartner%3Drss%26emc%3Drss&amp;t=In+China+and+U.S.%2C+Mutual+Distrust+Grows%2C+Study+Finds"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fworld%2Fasia%2Fin-china-and-us-mutual-distrust-grows-study-finds.html%3Fpartner%3Drss%26emc%3Drss&amp;t=In+China+and+U.S.%2C+Mutual+Distrust+Grows%2C+Study+Finds"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fworld%2Fasia%2Fin-china-and-us-mutual-distrust-grows-study-finds.html%3Fpartner%3Drss%26emc%3Drss&amp;t=In+China+and+U.S.%2C+Mutual+Distrust+Grows%2C+Study+Finds"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165666217408/u/393/f/640350/c/34625/s/2ed0a1ad/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165666217408/u/393/f/640350/c/34625/s/2ed0a1ad/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165666217408/u/393/f/640350/c/34625/s/2ed0a1ad/a2t.img"
+				border="0"/&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pew Research Center</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Smithfield Foods Inc|SFD|NYSE</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Polls and Public Opinion</category>
+			<pubDate>Thu, 18 Jul 2013 04:06:21 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/world/asia/in-china-and-us-mutual-distrust-grows-study-finds.html</guid>
+			<dc:creator>By JANE PERLEZ</dc:creator>
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/health/racial-disparities-in-life-spans-narrow-but-persist.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Racial Disparities in Life Spans Narrow, but Persist</title>
+			<link>http://www.nytimes.com/2013/07/18/health/racial-disparities-in-life-spans-narrow-but-persist.html?partner=rss&amp;emc=rss</link>
+			<description>Higher rates of death from heart disease, cancer,
+				homicide and diabetes help explain the 3.8-year gap in life
+				expectancy between black and white Americans.&lt;img width='1'
+				height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed48449/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fhealth%2Fracial-disparities-in-life-spans-narrow-but-persist.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Racial+Disparities+in+Life+Spans+Narrow%2C+but+Persist"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fhealth%2Fracial-disparities-in-life-spans-narrow-but-persist.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Racial+Disparities+in+Life+Spans+Narrow%2C+but+Persist"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fhealth%2Fracial-disparities-in-life-spans-narrow-but-persist.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Racial+Disparities+in+Life+Spans+Narrow%2C+but+Persist"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fhealth%2Fracial-disparities-in-life-spans-narrow-but-persist.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Racial+Disparities+in+Life+Spans+Narrow%2C+but+Persist"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fhealth%2Fracial-disparities-in-life-spans-narrow-but-persist.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Racial+Disparities+in+Life+Spans+Narrow%2C+but+Persist"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Infant Mortality</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Center for Health Statistics</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kochanek, Kenneth D</category>
+			<pubDate>Thu, 18 Jul 2013 04:01:00 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/health/racial-disparities-in-life-spans-narrow-but-persist.html</guid>
+			<dc:creator>By SABRINA TAVERNISE</dc:creator>
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/arts/steamy-wait-before-a-walk-in-a-museums-rain.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Steamy Wait Before a Walk in a Museum’s Rain</title>
+			<link>http://www.nytimes.com/2013/07/18/arts/steamy-wait-before-a-walk-in-a-museums-rain.html?partner=rss&amp;emc=rss</link>
+			<description>Waits are hours long for “Rain Room,” an installation at
+				the Museum of Modern Art that has rain falling all around, but
+				miraculously, not on you.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed48457/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Farts%2Fsteamy-wait-before-a-walk-in-a-museums-rain.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Steamy+Wait+Before+a+Walk+in+a+Museum%E2%80%99s+Rain"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Farts%2Fsteamy-wait-before-a-walk-in-a-museums-rain.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Steamy+Wait+Before+a+Walk+in+a+Museum%E2%80%99s+Rain"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Farts%2Fsteamy-wait-before-a-walk-in-a-museums-rain.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Steamy+Wait+Before+a+Walk+in+a+Museum%E2%80%99s+Rain"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Farts%2Fsteamy-wait-before-a-walk-in-a-museums-rain.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Steamy+Wait+Before+a+Walk+in+a+Museum%E2%80%99s+Rain"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Farts%2Fsteamy-wait-before-a-walk-in-a-museums-rain.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Steamy+Wait+Before+a+Walk+in+a+Museum%E2%80%99s+Rain"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rain</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Random International</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Museum of Modern Art</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Facebook Inc|FB|NASDAQ</category>
+			<pubDate>Thu, 18 Jul 2013 03:48:21 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/arts/steamy-wait-before-a-walk-in-a-museums-rain.html</guid>
+			<dc:creator>By JULIE L. BELCOVE</dc:creator>
+			<media:credit scheme="urn:ebu">Timothy Clary/Agence France-Presse
+				— Getty Images</media:credit>
+			<media:description>“Rain Room” at the Museum of Modern Art, the
+				destination for visitors who line up for hours.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/arts/Rainroom/Rainroom-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/us/florida-case-spurs-painful-talks-between-black-parents-and-their-children.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Florida Case Spurs Painful Talks Between Black Parents and
+				Their Children</title>
+			<link>http://www.nytimes.com/2013/07/18/us/florida-case-spurs-painful-talks-between-black-parents-and-their-children.html?partner=rss&amp;emc=rss</link>
+			<description>The acquittal of George Zimmerman in the fatal shooting
+				of Trayvon Martin has rattled any sense of security for black
+				families, with parents even warning sons what not to wear.&lt;img
+				width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed0a1ab/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fflorida-case-spurs-painful-talks-between-black-parents-and-their-children.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Florida+Case+Spurs+Painful+Talks+Between+Black+Parents+and+Their+Children"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fflorida-case-spurs-painful-talks-between-black-parents-and-their-children.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Florida+Case+Spurs+Painful+Talks+Between+Black+Parents+and+Their+Children"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fflorida-case-spurs-painful-talks-between-black-parents-and-their-children.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Florida+Case+Spurs+Painful+Talks+Between+Black+Parents+and+Their+Children"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fflorida-case-spurs-painful-talks-between-black-parents-and-their-children.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Florida+Case+Spurs+Painful+Talks+Between+Black+Parents+and+Their+Children"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fflorida-case-spurs-painful-talks-between-black-parents-and-their-children.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Florida+Case+Spurs+Painful+Talks+Between+Black+Parents+and+Their+Children"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br/&gt;&lt;br/&gt;&lt;a
+				href="http://da.feedsportal.com/r/165666217407/u/393/f/640350/c/34625/s/2ed0a1ab/a2.htm"&gt;&lt;img
+				src="http://da.feedsportal.com/r/165666217407/u/393/f/640350/c/34625/s/2ed0a1ab/a2.img"
+				border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1"
+				src="http://pi.feedsportal.com/r/165666217407/u/393/f/640350/c/34625/s/2ed0a1ab/a2t.img"
+				border="0"/&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sanford (Fla)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Murders and Attempted Murders</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, Trayvon</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zimmerman, George</category>
+			<pubDate>Thu, 18 Jul 2013 02:56:10 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/us/florida-case-spurs-painful-talks-between-black-parents-and-their-children.html</guid>
+			<dc:creator>By JOHN ELIGON</dc:creator>
+			<media:credit scheme="urn:ebu">Dan Gill for The New York Times</media:credit>
+			<media:description>Christian Hayes, 24, of University City, Mo., who
+				has twin sons, said if someone were following him, “I’m not going to
+				run.”</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/us/TALK-1/TALK-1-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/us/politics/judge-expected-to-decide-on-charge-of-aiding-enemy.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Judge Expected to Decide on Charge of Aiding Enemy</title>
+			<link>http://www.nytimes.com/2013/07/18/us/politics/judge-expected-to-decide-on-charge-of-aiding-enemy.html?partner=rss&amp;emc=rss</link>
+			<description>The judge hearing the case against Pfc. Bradley Manning
+				said she would decide Thursday on his lawyers’ request to drop a
+				charge accusing him of aiding the enemy.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed48454/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fjudge-expected-to-decide-on-charge-of-aiding-enemy.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Judge+Expected+to+Decide+on+Charge+of+Aiding+Enemy"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fjudge-expected-to-decide-on-charge-of-aiding-enemy.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Judge+Expected+to+Decide+on+Charge+of+Aiding+Enemy"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fjudge-expected-to-decide-on-charge-of-aiding-enemy.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Judge+Expected+to+Decide+on+Charge+of+Aiding+Enemy"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fjudge-expected-to-decide-on-charge-of-aiding-enemy.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Judge+Expected+to+Decide+on+Charge+of+Aiding+Enemy"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fjudge-expected-to-decide-on-charge-of-aiding-enemy.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Judge+Expected+to+Decide+on+Charge+of+Aiding+Enemy"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manning, Bradley E</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Wikileaks</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lind, Denise R</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+			<pubDate>Thu, 18 Jul 2013 02:18:21 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/us/politics/judge-expected-to-decide-on-charge-of-aiding-enemy.html</guid>
+			<dc:creator>By ERIN BANCO</dc:creator>
+			<media:credit scheme="urn:ebu">Patrick Semansky/Associated Press</media:credit>
+			<media:description>Pfc. Bradley Manning outside court in Maryland on
+				Monday. He gave documents to WikiLeaks.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/us/MANNING/MANNING-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/sports/cycling/during-tour-de-france-watchdogs-seek-doping-clues-from-a-distance.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Watchdogs Seek Doping Clues From a Distance</title>
+			<link>http://www.nytimes.com/2013/07/18/sports/cycling/during-tour-de-france-watchdogs-seek-doping-clues-from-a-distance.html?partner=rss&amp;emc=rss</link>
+			<description>A group of activists is scrutinizing the Tour de France
+				for hints of doping by comparing current performances with past
+				ones. But the fairness of their methods has been questioned.&lt;img
+				width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed4844e/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fsports%2Fcycling%2Fduring-tour-de-france-watchdogs-seek-doping-clues-from-a-distance.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Watchdogs+Seek+Doping+Clues+From+a+Distance"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fsports%2Fcycling%2Fduring-tour-de-france-watchdogs-seek-doping-clues-from-a-distance.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Watchdogs+Seek+Doping+Clues+From+a+Distance"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fsports%2Fcycling%2Fduring-tour-de-france-watchdogs-seek-doping-clues-from-a-distance.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Watchdogs+Seek+Doping+Clues+From+a+Distance"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fsports%2Fcycling%2Fduring-tour-de-france-watchdogs-seek-doping-clues-from-a-distance.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Watchdogs+Seek+Doping+Clues+From+a+Distance"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fsports%2Fcycling%2Fduring-tour-de-france-watchdogs-seek-doping-clues-from-a-distance.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Watchdogs+Seek+Doping+Clues+From+a+Distance"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Doping (Sports)</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Facebook Inc|FB|NASDAQ</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tour de France (Bicycle Race)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Drug Use)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Froome, Christopher</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Garmin Ltd|GRMN|NASDAQ</category>
+			<pubDate>Thu, 18 Jul 2013 01:54:04 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/sports/cycling/during-tour-de-france-watchdogs-seek-doping-clues-from-a-distance.html</guid>
+			<dc:creator>By JAMES DAO</dc:creator>
+			<media:credit scheme="urn:ebu">Charlie Shoemaker for The New York
+				Times</media:credit>
+			<media:description>Ross Tucker, a 32-year-old physiologist, reflected
+				in his TV during a Tour broadcast. Tucker said uncomfortable
+				questions were what the sport needed to clean up its image.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/sports/CITY-CYCLING/CITY-CYCLING-moth-v2.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/nyregion/a-transit-hub-in-the-making-may-prove-to-be-the-grandest.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Building Blocks: A Transit Hub in the Making May Prove to Be
+				the Grandest</title>
+			<link>http://www.nytimes.com/2013/07/18/nyregion/a-transit-hub-in-the-making-may-prove-to-be-the-grandest.html?partner=rss&amp;emc=rss</link>
+			<description>The expansive main hall at the World Trade Center
+				complex could become a destination in its own right.&lt;img
+				width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed48455/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fnyregion%2Fa-transit-hub-in-the-making-may-prove-to-be-the-grandest.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Building+Blocks%3A+A+Transit+Hub+in+the+Making+May+Prove+to+Be+the+Grandest"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fnyregion%2Fa-transit-hub-in-the-making-may-prove-to-be-the-grandest.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Building+Blocks%3A+A+Transit+Hub+in+the+Making+May+Prove+to+Be+the+Grandest"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fnyregion%2Fa-transit-hub-in-the-making-may-prove-to-be-the-grandest.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Building+Blocks%3A+A+Transit+Hub+in+the+Making+May+Prove+to+Be+the+Grandest"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fnyregion%2Fa-transit-hub-in-the-making-may-prove-to-be-the-grandest.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Building+Blocks%3A+A+Transit+Hub+in+the+Making+May+Prove+to+Be+the+Grandest"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fnyregion%2Fa-transit-hub-in-the-making-may-prove-to-be-the-grandest.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Building+Blocks%3A+A+Transit+Hub+in+the+Making+May+Prove+to+Be+the+Grandest"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Port Authority of New York and New Jersey</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Calatrava, Santiago</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">World Trade Center (Manhattan, NY)</category>
+			<pubDate>Thu, 18 Jul 2013 01:53:15 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/nyregion/a-transit-hub-in-the-making-may-prove-to-be-the-grandest.html</guid>
+			<dc:creator>By DAVID W. DUNLAP</dc:creator>
+			<media:credit scheme="urn:ebu">Fred R. Conrad/The New York Times</media:credit>
+			<media:description>The World Trade Center Transportation Hub, with a
+				$3.94 billion price tag, is to open in 2015. It originally was to
+				cost $2 billion.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/nyregion/blocks-2/blocks-2-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/us/politics/bipartisan-backlash-grows-against-domestic-surveillance.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Bipartisan Backlash Grows Against Domestic Surveillance</title>
+			<link>http://www.nytimes.com/2013/07/18/us/politics/bipartisan-backlash-grows-against-domestic-surveillance.html?partner=rss&amp;emc=rss</link>
+			<description>Lawmakers from both parties called for the collection of
+				the private data of millions of Americans to be scaled back.&lt;img
+				width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ecfb2f5/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fbipartisan-backlash-grows-against-domestic-surveillance.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Bipartisan+Backlash+Grows+Against+Domestic+Surveillance"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fbipartisan-backlash-grows-against-domestic-surveillance.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Bipartisan+Backlash+Grows+Against+Domestic+Surveillance"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fbipartisan-backlash-grows-against-domestic-surveillance.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Bipartisan+Backlash+Grows+Against+Domestic+Surveillance"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fbipartisan-backlash-grows-against-domestic-surveillance.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Bipartisan+Backlash+Grows+Against+Domestic+Surveillance"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fbipartisan-backlash-grows-against-domestic-surveillance.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Bipartisan+Backlash+Grows+Against+Domestic+Surveillance"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Google Inc|GOOG|NASDAQ</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House of Representatives</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Facebook Inc|FB|NASDAQ</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Microsoft Corporation|MSFT|NASDAQ</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Apple Inc|AAPL|NASDAQ</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Security Agency</category>
+			<pubDate>Thu, 18 Jul 2013 01:34:51 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/us/politics/bipartisan-backlash-grows-against-domestic-surveillance.html</guid>
+			<dc:creator>By JAMES RISEN</dc:creator>
+			<media:credit scheme="urn:ebu">Chip Somodevilla/Getty Images</media:credit>
+			<media:description>Representative Jim Sensenbrenner, Republican of
+				Wisconsin, was among the lawmakers who expressed skepticism about
+				the collection of private data by the National Security Agency.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/us/NSA-1/NSA-1-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/world/middleeast/momentum-shifts-in-syria-bolstering-assads-position.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Momentum Shifts in Syria, Bolstering Assad’s Position</title>
+			<link>http://www.nytimes.com/2013/07/18/world/middleeast/momentum-shifts-in-syria-bolstering-assads-position.html?partner=rss&amp;emc=rss</link>
+			<description>Though his country is in shambles, President Bashar
+				al-Assad now seems better positioned to hang on to power than he has
+				been for most of Syria’s two-year civil war.&lt;img width='1'
+				height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed23af1/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fworld%2Fmiddleeast%2Fmomentum-shifts-in-syria-bolstering-assads-position.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Momentum+Shifts+in+Syria%2C+Bolstering+Assad%E2%80%99s+Position"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fworld%2Fmiddleeast%2Fmomentum-shifts-in-syria-bolstering-assads-position.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Momentum+Shifts+in+Syria%2C+Bolstering+Assad%E2%80%99s+Position"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fworld%2Fmiddleeast%2Fmomentum-shifts-in-syria-bolstering-assads-position.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Momentum+Shifts+in+Syria%2C+Bolstering+Assad%E2%80%99s+Position"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fworld%2Fmiddleeast%2Fmomentum-shifts-in-syria-bolstering-assads-position.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Momentum+Shifts+in+Syria%2C+Bolstering+Assad%E2%80%99s+Position"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fworld%2Fmiddleeast%2Fmomentum-shifts-in-syria-bolstering-assads-position.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Momentum+Shifts+in+Syria%2C+Bolstering+Assad%E2%80%99s+Position"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests, and Riots</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and North Africa Unrest (2010-
+				)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Damascus (Syria)</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+			<pubDate>Thu, 18 Jul 2013 01:33:42 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/world/middleeast/momentum-shifts-in-syria-bolstering-assads-position.html</guid>
+			<dc:creator>By BEN HUBBARD</dc:creator>
+			<media:credit scheme="urn:ebu">Syrian Arab News Agency, via Agence
+				France-Presse — Getty Images</media:credit>
+			<media:description>President Bashar al-Assad's resilience suggests
+				that he has carved out what amounts to a rump state in central Syria
+				that is firmly backed by Russia, Iran and Hezbollah.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/world/assad/assad-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/sports/baseball/in-minor-leagues-yankees-rodriguez-a-rich-man-visits-a-frayed-city.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>In Minor Leagues, a Rich Man Visits a Frayed City</title>
+			<link>http://www.nytimes.com/2013/07/18/sports/baseball/in-minor-leagues-yankees-rodriguez-a-rich-man-visits-a-frayed-city.html?partner=rss&amp;emc=rss</link>
+			<description>Playing with Class AA Trenton, Alex Rodriguez, armed
+				with the richest contract in baseball history, found himself plying
+				his trade in one of the country’s poorest cities, Reading,
+				Pa.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed0039a/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fsports%2Fbaseball%2Fin-minor-leagues-yankees-rodriguez-a-rich-man-visits-a-frayed-city.html%3Fpartner%3Drss%26emc%3Drss&amp;t=In+Minor+Leagues%2C+a+Rich+Man+Visits+a+Frayed+City"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fsports%2Fbaseball%2Fin-minor-leagues-yankees-rodriguez-a-rich-man-visits-a-frayed-city.html%3Fpartner%3Drss%26emc%3Drss&amp;t=In+Minor+Leagues%2C+a+Rich+Man+Visits+a+Frayed+City"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fsports%2Fbaseball%2Fin-minor-leagues-yankees-rodriguez-a-rich-man-visits-a-frayed-city.html%3Fpartner%3Drss%26emc%3Drss&amp;t=In+Minor+Leagues%2C+a+Rich+Man+Visits+a+Frayed+City"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fsports%2Fbaseball%2Fin-minor-leagues-yankees-rodriguez-a-rich-man-visits-a-frayed-city.html%3Fpartner%3Drss%26emc%3Drss&amp;t=In+Minor+Leagues%2C+a+Rich+Man+Visits+a+Frayed+City"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fsports%2Fbaseball%2Fin-minor-leagues-yankees-rodriguez-a-rich-man-visits-a-frayed-city.html%3Fpartner%3Drss%26emc%3Drss&amp;t=In+Minor+Leagues%2C+a+Rich+Man+Visits+a+Frayed+City"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Trenton Thunder</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Alex</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">FirstEnergy Corporation|FE|NYSE</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Yankees</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Reading (Pa)</category>
+			<pubDate>Thu, 18 Jul 2013 01:25:26 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/sports/baseball/in-minor-leagues-yankees-rodriguez-a-rich-man-visits-a-frayed-city.html</guid>
+			<dc:creator>By SCOTT CACCIOLA</dc:creator>
+			<media:credit scheme="urn:ebu">Mark Makela for The New York Times</media:credit>
+			<media:description>Alex Rodriguez after a game with the Class AA
+				Trenton Thunder in Reading, Pa.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/sports/READING1/READING1-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/us/politics/politicians-are-slowed-by-scandal-but-many-still-win-the-race.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Winners and Losers: Politicians Are Slowed by Scandal, but
+				Many Still Win the Race</title>
+			<link>http://www.nytimes.com/2013/07/18/us/politics/politicians-are-slowed-by-scandal-but-many-still-win-the-race.html?partner=rss&amp;emc=rss</link>
+			<description>Across the country, politicians have faced opponents
+				tainted by scandal — some of them seemingly muddied beyond saving —
+				yet they have gone on to lose anyway.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ed48452/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fpoliticians-are-slowed-by-scandal-but-many-still-win-the-race.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Winners+and+Losers%3A+Politicians+Are+Slowed+by+Scandal%2C+but+Many+Still+Win+the+Race"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fpoliticians-are-slowed-by-scandal-but-many-still-win-the-race.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Winners+and+Losers%3A+Politicians+Are+Slowed+by+Scandal%2C+but+Many+Still+Win+the+Race"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fpoliticians-are-slowed-by-scandal-but-many-still-win-the-race.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Winners+and+Losers%3A+Politicians+Are+Slowed+by+Scandal%2C+but+Many+Still+Win+the+Race"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fpoliticians-are-slowed-by-scandal-but-many-still-win-the-race.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Winners+and+Losers%3A+Politicians+Are+Slowed+by+Scandal%2C+but+Many+Still+Win+the+Race"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fus%2Fpolitics%2Fpoliticians-are-slowed-by-scandal-but-many-still-win-the-race.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Winners+and+Losers%3A+Politicians+Are+Slowed+by+Scandal%2C+but+Many+Still+Win+the+Race"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weiner, Anthony D</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wolf, Petty Judy</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stewart, Eric</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vitter, David</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ray, John L</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duke, David</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roemer, Buddy</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DesJarlais, Scott E</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barry, Marion S Jr</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Voting and Voters</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melancon, Charlie</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Edwards, Edwin W</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanford, Mark</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mills, Wilbur</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hart, Gary</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spitzer, Eliot L</category>
+			<pubDate>Thu, 18 Jul 2013 01:19:11 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/us/politics/politicians-are-slowed-by-scandal-but-many-still-win-the-race.html</guid>
+			<dc:creator>By CAMPBELL ROBERTSON</dc:creator>
+			<media:credit scheme="urn:ebu">Left, Chris Aluka Berry for The New
+				York Times; right, Rich Addicks for The New York Times</media:credit>
+			<media:description>Mark Sanford, the former South Carolina governor
+				who admitted to having an extramarital affair, defeated Elizabeth
+				Colbert Busch in a Congressional race in May.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/17/us/scandal_inline1/scandal_inline1-moth.jpg" />
+		</item>
+		<item>
+			<atom:link
+				href="http://www.nytimes.com/2013/07/18/business/media/apples-move-into-tv-relies-on-cooperation-with-industry-leaders.html?partner=rss&amp;emc=rss"
+				rel="standout" />
+			<title>Advertising: Apple’s Move Into TV Relies on Cooperation With
+				Industry Leaders</title>
+			<link>http://www.nytimes.com/2013/07/18/business/media/apples-move-into-tv-relies-on-cooperation-with-industry-leaders.html?partner=rss&amp;emc=rss</link>
+			<description>Apple’s steps to reimagine television, like teaming up
+				with ESPN, stand in stark contrast to efforts by Google to compete
+				with established companies.&lt;img width='1' height='1'
+				src='http://rss.nytimes.com/c/34625/f/640350/s/2ecf52ce/mf.gif'
+				border='0'/&gt;&lt;div class='mf-viral'&gt;&lt;table
+				border='0'&gt;&lt;tr&gt;&lt;td valign='middle'&gt;&lt;a
+				href="http://share.feedsportal.com/share/twitter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fbusiness%2Fmedia%2Fapples-move-into-tv-relies-on-cooperation-with-industry-leaders.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Advertising%3A+Apple%E2%80%99s+Move+Into+TV+Relies+on+Cooperation+With+Industry+Leaders"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/twitter.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/facebook/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fbusiness%2Fmedia%2Fapples-move-into-tv-relies-on-cooperation-with-industry-leaders.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Advertising%3A+Apple%E2%80%99s+Move+Into+TV+Relies+on+Cooperation+With+Industry+Leaders"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/facebook.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/linkedin/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fbusiness%2Fmedia%2Fapples-move-into-tv-relies-on-cooperation-with-industry-leaders.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Advertising%3A+Apple%E2%80%99s+Move+Into+TV+Relies+on+Cooperation+With+Industry+Leaders"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/linkedin.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/gplus/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fbusiness%2Fmedia%2Fapples-move-into-tv-relies-on-cooperation-with-industry-leaders.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Advertising%3A+Apple%E2%80%99s+Move+Into+TV+Relies+on+Cooperation+With+Industry+Leaders"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/googleplus.png" border="0"
+				/&gt;&lt;/a&gt;&amp;nbsp;&lt;a
+				href="http://share.feedsportal.com/share/email/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F07%2F18%2Fbusiness%2Fmedia%2Fapples-move-into-tv-relies-on-cooperation-with-industry-leaders.html%3Fpartner%3Drss%26emc%3Drss&amp;t=Advertising%3A+Apple%E2%80%99s+Move+Into+TV+Relies+on+Cooperation+With+Industry+Leaders"
+				target="_blank"&gt;&lt;img
+				src="http://res3.feedsportal.com/social/email.png" border="0"
+				/&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Google Inc|GOOG|NASDAQ</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Time Warner Cable Inc|TWC|NYSE</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Advertising and Marketing</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Walt Disney Company|DIS|NYSE</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Consumer Behavior</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Apple TV</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Netflix Inc|NFLX|NASDAQ</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Prices (Fares, Fees and Rates)</category>
+			<category domain="http://www.nytimes.com/namespaces/nyt_org_all">Amazon.com Inc|AMZN|NASDAQ</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Comcast Corporation|CMCSA|NASDAQ</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc|AAPL|NASDAQ</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cable Television</category>
+			<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Time Warner Inc|TWX|NYSE</category>
+			<pubDate>Thu, 18 Jul 2013 00:57:35 GMT</pubDate>
+			<guid isPermaLink="false">http://www.nytimes.com/2013/07/18/business/media/apples-move-into-tv-relies-on-cooperation-with-industry-leaders.html</guid>
+			<dc:creator>By BRIAN STELTER</dc:creator>
+			<media:credit scheme="urn:ebu" />
+			<media:description>An app lets users stream Sky News through Apple
+				TV, giving the network access to viewers without dealing with cable
+				providers.</media:description>
+			<media:content height="151" lang="" width="151"
+				url="http://graphics8.nytimes.com/images/2013/07/18/business/Applejp/Applejp-moth.jpg" />
+		</item>
+	</channel>
+</rss>
